@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Philosophischer_Essay"] 0 "Philosophischer_Essay.bcf" "Philosophischer_Essay.bbl" "Philosophischer_Essay" 1700155446 -1
+["biber Philosophischer_Essay"] 0 "Philosophischer_Essay.bcf" "Philosophischer_Essay.bbl" "Philosophischer_Essay" 1700156779 -1
   "./bibliography.bib" 1700151171 519 08f67f70143a83b5efce7e489e4731f1 ""
-  "Philosophischer_Essay.bcf" 1700155446 107836 7977e483726c06f32d023eead962c709 "pdflatex"
+  "Philosophischer_Essay.bcf" 1700156779 107836 7977e483726c06f32d023eead962c709 "pdflatex"
   (generated)
   "Philosophischer_Essay.bbl"
   "Philosophischer_Essay.blg"
   (rewritten before read)
-["pdflatex"] 1700155446 "/home/danie/Git/Writing/Gorgias/Philosophischer_Essay.tex" "Philosophischer_Essay.pdf" "Philosophischer_Essay" 1700155446 0
-  "/home/danie/Git/Writing/Gorgias/Philosophischer_Essay.tex" 1700155444 6844 8ad2b8af106734d97e321d72487bbef5 ""
+["pdflatex"] 1700156778 "/home/danie/Git/Writing/Gorgias/Philosophischer_Essay.tex" "Philosophischer_Essay.pdf" "Philosophischer_Essay" 1700156779 0
+  "/home/danie/Git/Writing/Gorgias/Philosophischer_Essay.tex" 1700156778 8055 51314d0d1febc09541b8c69f28902c60 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1136768653 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
@@ -64,10 +64,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700145161 4714027 87618d7f896f286b6b7c4cf67f54d550 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700145201 8213594 fc64d402fed6712eca9642543084a617 ""
   "/usr/local/texlive/2023/texmf.cnf" 1700145153 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Philosophischer_Essay.aux" 1700155446 814 aa7f973fa88d73e71bd919764eb68656 "pdflatex"
+  "Philosophischer_Essay.aux" 1700156779 814 5ceca65708a2ae684cbc2e3253c5339d "pdflatex"
   "Philosophischer_Essay.bbl" 1700154660 2456 d69ed2a2199b82f29dadd60851fe10fb "biber Philosophischer_Essay"
-  "Philosophischer_Essay.run.xml" 1700155446 2456 45b8741f123befeef32033b7f86eabe5 "pdflatex"
-  "Philosophischer_Essay.tex" 1700155444 6844 8ad2b8af106734d97e321d72487bbef5 ""
+  "Philosophischer_Essay.run.xml" 1700156779 2456 45b8741f123befeef32033b7f86eabe5 "pdflatex"
+  "Philosophischer_Essay.tex" 1700156778 8055 51314d0d1febc09541b8c69f28902c60 ""
   (generated)
   "Philosophischer_Essay.aux"
   "Philosophischer_Essay.bcf"
