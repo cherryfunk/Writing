@@ -1,0 +1,77 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{plato_kriton}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
+           family={Plato},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Verlagsort}%
+      }
+      \list{publisher}{1}{%
+        {Ihr Verlag}%
+      }
+      \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{bibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authorbibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authornamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authorfullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kriton}
+      \field{year}{Ihr Jahr der Veröffentlichung}
+    \endentry
+    \entry{plato_menon}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
+           family={Plato},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Verlagsort}%
+      }
+      \list{publisher}{1}{%
+        {Ihr Verlag}%
+      }
+      \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{bibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authorbibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authornamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{authorfullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Menon}
+      \field{year}{Ihr Jahr der Veröffentlichung}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
