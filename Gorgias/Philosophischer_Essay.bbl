@@ -19,43 +19,97 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{plato_kriton}{book}{}
+    \entry{feuerstein2001}{book}{}
       \name{author}{1}{}{%
-        {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
-           family={Plato},
-           familyi={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Verlagsort}%
+        {{hash=069c274473787e79990f54b44c408b47}{%
+           family={Feuerstein},
+           familyi={F\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Ihr Verlag}%
+        {Hohm Press}%
       }
-      \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \strng{bibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \strng{authorbibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \strng{authornamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \strng{authorfullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \field{extraname}{1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \strng{namehash}{069c274473787e79990f54b44c408b47}
+      \strng{fullhash}{069c274473787e79990f54b44c408b47}
+      \strng{bibnamehash}{069c274473787e79990f54b44c408b47}
+      \strng{authorbibnamehash}{069c274473787e79990f54b44c408b47}
+      \strng{authornamehash}{069c274473787e79990f54b44c408b47}
+      \strng{authorfullhash}{069c274473787e79990f54b44c408b47}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Kriton}
-      \field{year}{Ihr Jahr der Veröffentlichung}
+      \field{title}{The Yoga Tradition: Its History, Literature, Philosophy and Practice}
+      \field{year}{2001}
     \endentry
-    \entry{plato_menon}{book}{}
+    \entry{flood1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=56a2b5d0546b463af5b3462509537e6f}{%
+           family={Flood},
+           familyi={F\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{56a2b5d0546b463af5b3462509537e6f}
+      \strng{fullhash}{56a2b5d0546b463af5b3462509537e6f}
+      \strng{bibnamehash}{56a2b5d0546b463af5b3462509537e6f}
+      \strng{authorbibnamehash}{56a2b5d0546b463af5b3462509537e6f}
+      \strng{authornamehash}{56a2b5d0546b463af5b3462509537e6f}
+      \strng{authorfullhash}{56a2b5d0546b463af5b3462509537e6f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Hinduism}
+      \field{year}{1996}
+    \endentry
+    \entry{maslow1987}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b8962a7e859e705d2af2f259315da06d}{%
+           family={Maslow},
+           familyi={M\bibinitperiod},
+           given={Abraham\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harper \& Row}%
+      }
+      \strng{namehash}{b8962a7e859e705d2af2f259315da06d}
+      \strng{fullhash}{b8962a7e859e705d2af2f259315da06d}
+      \strng{bibnamehash}{b8962a7e859e705d2af2f259315da06d}
+      \strng{authorbibnamehash}{b8962a7e859e705d2af2f259315da06d}
+      \strng{authornamehash}{b8962a7e859e705d2af2f259315da06d}
+      \strng{authorfullhash}{b8962a7e859e705d2af2f259315da06d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Motivation and Personality}
+      \field{year}{1987}
+    \endentry
+    \entry{plato1967}{book}{}
       \name{author}{1}{}{%
         {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
            family={Plato},
            familyi={P\bibinitperiod}}}%
       }
+      \name{translator}{1}{}{%
+        {{hash=abadb52a8d865006ec6a698fa2669773}{%
+           family={Lamb},
+           familyi={L\bibinitperiod},
+           given={W.R.M.},
+           giveni={W\bibinitperiod}}}%
+      }
       \list{location}{1}{%
-        {Verlagsort}%
+        {Cambridge, MA; London}%
       }
       \list{publisher}{1}{%
-        {Ihr Verlag}%
+        {Harvard University Press; William Heinemann Ltd}%
       }
       \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
       \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
@@ -63,13 +117,40 @@
       \strng{authorbibnamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
       \strng{authornamehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
       \strng{authorfullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
-      \field{extraname}{2}
+      \strng{translatorbibnamehash}{abadb52a8d865006ec6a698fa2669773}
+      \strng{translatornamehash}{abadb52a8d865006ec6a698fa2669773}
+      \strng{translatorfullhash}{abadb52a8d865006ec6a698fa2669773}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Menon}
-      \field{year}{Ihr Jahr der Veröffentlichung}
+      \field{title}{Gorgias}
+      \field{volume}{3}
+      \field{year}{1967}
+    \endentry
+    \entry{rahula1974}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e968f5c2b9770aea8d4ef01d21685a94}{%
+           family={Rahula},
+           familyi={R\bibinitperiod},
+           given={Walpola},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Grove Press}%
+      }
+      \strng{namehash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \strng{fullhash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \strng{bibnamehash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \strng{authorbibnamehash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \strng{authornamehash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \strng{authorfullhash}{e968f5c2b9770aea8d4ef01d21685a94}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What the Buddha Taught}
+      \field{year}{1974}
     \endentry
   \enddatalist
 \endrefsection

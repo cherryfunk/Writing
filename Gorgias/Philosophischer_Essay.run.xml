@@ -54,8 +54,8 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>numeric.bbx</file>
-      <file>numeric.cbx</file>
+      <file>authortitle.bbx</file>
+      <file>verbose-trad1.cbx</file>
       <file>biblatex.cfg</file>
       <file>german.lbx</file>
       <file>ngerman.lbx</file>
@@ -80,7 +80,7 @@
       <file>Philosophischer_Essay.bcf</file>
     </requires>
     <requires type="editable">
-      <file>bibliography.bib</file>
+      <file>Philosophical_Essay_References.bib</file>
     </requires>
   </external>
 </requests>
