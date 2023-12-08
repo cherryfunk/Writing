@@ -1,0 +1,95 @@
+\documentclass[output=paper]{langscibook} 
+\author{Tobias Thelen and Another Author and Yet Another Author}
+\title{AI in public discourse paper template} 
+\bibliography{bib/18-inclusivity-in-policy}
+
+% Current status: 
+%
+%  - We are not yet finished with our conclusions. Please do not comment on that yet.
+%  - We are unsure about how detailed the summary of the papers should be. Please have a look at the current state.
+%
+
+\abstract{Write an abstract that summarizes your paper. It's important to understand that an abstract is not a teaser but includes results.
+
+\textbf{Keywords:} Provide 3-5 comma-separated keywords that are specific to your chapter
+}
+
+
+\begin{document}
+\maketitle
+\section{Introduction}
+ 
+Explain the topic of your paper and the background. Define the field of your review and clearly describe what's included and what's not.
+
+Use blank lines to use paragraphs. There's hardly ever a reason to use explicit line breaks.
+
+\begin{figure}[ht]
+	\centering
+  \includegraphics[width=0.75\textwidth]{figures/00/adaptive-cycle.png}
+	\caption{A figure with a caption \citep{parasuraman_model_2000}}
+	\label{fig:00-adaptive-cycle}
+\end{figure}
+
+\noindent No indentation after figures and tables. Always refer to figures like figure \ref{fig:00-adaptive-cycle} with proper ref commands.
+
+You can refer to other chapters in the book by using their label. Example: Chapter \ref{paper01} discusses the topic of biases in greater detail.
+
+
+ \section{Methodology}
+ 
+ A good source for understanding systematic literature reviews is \citet{zawacki2019systematic}. Important: References have to be done via \BibTeX files. Use \texttt{citet} if the author name is part of your sentence and only the year and pages have to be put in parentheses. Use \texttt{citep} if both author name and year and pages have to appear in parentheses. Observe the difference of \texttt{citet} and \texttt{citep} here: \citet{zawacki2019systematic} vs. \citep{zawacki2019systematic} or \citep{andre2017}.
+
+ \begin{table}[ht]
+    \centering
+    \begin{tabular}{p{0.45\textwidth}p{0.45\textwidth}}
+    \hline
+      some text & some text \\
+    \hline
+      some text & some text \\
+      some text & some text \\
+      some text & some text \\
+    \hline
+    \end{tabular}
+    \caption{This is a table}
+    \label{tab:00-search-terms}
+\end{table}
+
+\noindent Tables and figures will not always be placed exactly where you put them. This is the normal behaviour of \LaTeX\ that adheres to typography rules. Don't try to work against that. And of course, reference your tables in the text, like here: see table \ref{tab:00-search-terms}.
+ 
+ \subsection{No single subchapters}
+ 
+ Important: You must not introduce single subchapters or subsubchapters. So, if you have a subchapter 3.1, you must also have 3.2. This subchapter is wrong.
+ 
+\section{Results} 
+
+This is the main chapter of your paper. 
+
+\subsection{Description}
+
+In a subchapter like this you could give some descriptive accounts of your findings like in which journals the papers appeared, in which years they were published, what the origin and disciplines of authors are etc.
+
+\subsection{Further findings \dots}
+
+Find an appropriate structure for your chapters and subchapters. The template just gives hints.
+
+\section{Conclusion}
+
+What's your conclusion? You may also include your own opinion and judgements here, but clearly mark them!
+
+    \printbibliography[heading=subbibliography,notkeyword=this]
+
+\end{document}
+\section*{Abstract}
+This paper explores the theme of inclusivity in AI policy-making, particularly focusing on the roles and perspectives of both technologically advanced and developing countries. Drawing insights from the AI Safety Summit, it examines the current landscape of AI policy and its implications on a global scale.
+\section*{Introduction}
+The field of artificial intelligence (AI) is rapidly evolving, raising significant questions about the formulation and implementation of policies. This paper discusses the importance of inclusivity in AI policy-making, emphasizing the need for diverse perspectives to address the challenges and opportunities presented by AI.
+\section*{AI Safety Summit Overview}
+The AI Safety Summit serves as a pivotal point for global discussions on AI policy. This section provides an overview of the key themes and declarations made during the summit, highlighting their relevance to the discourse on inclusivity and policy-making in the AI sector.
+\section*{Inclusivity in Policy Making}
+Inclusivity in policy-making is crucial for ensuring that AI technologies benefit a wide range of populations. This section delves into the processes and stakeholders involved in AI policy-making, advocating for the inclusion of voices from different socioeconomic and cultural backgrounds.
+\section*{Role of Technologically Advanced Countries}
+Technologically advanced countries often lead the way in AI development and policy. This section examines their influence on global AI standards and the responsibility they hold in fostering inclusive and ethical AI practices.
+\section*{Role of Developing Countries}
+Developing countries face unique challenges in the AI landscape. This section explores these challenges, along with the potential opportunities for these countries to contribute to and benefit from AI advancements.
+\section*{Conclusions}
+Concluding the discussion, this section synthesizes the insights gathered throughout the paper and proposes recommendations for creating more inclusive AI policies that consider the needs and perspectives of a diverse range of global stakeholders.
