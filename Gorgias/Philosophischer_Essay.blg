@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Philosophischer_Essay.blg'
-[68] biber:340> INFO - === Fri Nov 17, 2023, 21:45:01
-[82] Biber.pm:419> INFO - Reading 'Philosophischer_Essay.bcf'
-[149] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
-[161] Biber.pm:4419> INFO - Processing section 0
-[170] Biber.pm:4610> INFO - Looking for bibtex file 'Philosophical_Essay_References.bib' for section 0
-[172] bibtex.pm:1713> INFO - LaTeX decoding ...
-[177] bibtex.pm:1519> INFO - Found BibTeX data source 'Philosophical_Essay_References.bib'
-[241] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[242] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[242] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[242] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[252] bbl.pm:660> INFO - Writing 'Philosophischer_Essay.bbl' with encoding 'UTF-8'
-[256] bbl.pm:763> INFO - Output to Philosophischer_Essay.bbl
+[56] biber:340> INFO - === Wed Dec 27, 2023, 16:11:07
+[67] Biber.pm:419> INFO - Reading 'Philosophischer_Essay.bcf'
+[121] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[133] Biber.pm:4419> INFO - Processing section 0
+[142] Biber.pm:4610> INFO - Looking for bibtex file 'Philosophical_Essay_References.bib' for section 0
+[144] bibtex.pm:1713> INFO - LaTeX decoding ...
+[149] bibtex.pm:1519> INFO - Found BibTeX data source 'Philosophical_Essay_References.bib'
+[187] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[187] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[187] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[187] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[191] bbl.pm:660> INFO - Writing 'Philosophischer_Essay.bbl' with encoding 'UTF-8'
+[193] bbl.pm:763> INFO - Output to Philosophischer_Essay.bbl
