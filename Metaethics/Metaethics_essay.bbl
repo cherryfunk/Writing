@@ -165,34 +165,35 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Canadian Journal of Philosophy}
-      \field{title}{The real and the quasi-real: problems of distinction}
+      \field{title}{The real \& the quasi-real: problems of distinction}
       \field{volume}{48}
       \field{year}{2018}
       \field{pages}{532\bibrangedash 547}
       \range{pages}{16}
     \endentry
-    \entry{Ducheyne2017}{article}{}
-      \name{author}{1}{}{%
-        {{hash=bef75a6f542b77d78923c338d2dd6021}{%
+    \entry{Ducheyne2017}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=505120fe04b6c620cd488ead8574f841}{%
            family={Ducheyne},
            familyi={D\bibinitperiod},
-           given={S.},
+           given={Steffen},
            giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{bef75a6f542b77d78923c338d2dd6021}
-      \strng{fullhash}{bef75a6f542b77d78923c338d2dd6021}
-      \strng{bibnamehash}{bef75a6f542b77d78923c338d2dd6021}
-      \strng{authorbibnamehash}{bef75a6f542b77d78923c338d2dd6021}
-      \strng{authornamehash}{bef75a6f542b77d78923c338d2dd6021}
-      \strng{authorfullhash}{bef75a6f542b77d78923c338d2dd6021}
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{505120fe04b6c620cd488ead8574f841}
+      \strng{fullhash}{505120fe04b6c620cd488ead8574f841}
+      \strng{bibnamehash}{505120fe04b6c620cd488ead8574f841}
+      \strng{editorbibnamehash}{505120fe04b6c620cd488ead8574f841}
+      \strng{editornamehash}{505120fe04b6c620cd488ead8574f841}
+      \strng{editorfullhash}{505120fe04b6c620cd488ead8574f841}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{The Radical Enlightenment}
+      \field{title}{Reassessing the Radical Enlightenment}
       \field{year}{2017}
-      \field{pages}{1\bibrangedash 11}
-      \range{pages}{11}
     \endentry
     \entry{FinlayCuneo2008}{article}{}
       \name{author}{2}{}{%
@@ -218,7 +219,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophy Compass}
-      \field{title}{Teaching & Learning Guide for: Moral Realism and Moral Non-naturalism}
+      \field{title}{Teaching \& Learning Guide for: Moral Realism and Moral Non-naturalism}
       \field{volume}{3}
       \field{year}{2008}
       \field{pages}{570\bibrangedash 572}
@@ -304,7 +305,7 @@
       \field{pages}{843\bibrangedash 851}
       \range{pages}{9}
     \endentry
-    \entry{Lambek1981}{article}{}
+    \entry{Lambek1981}{incollection}{}
       \name{author}{1}{}{%
         {{hash=bc225c040004cf5aff8b9441b32e1df8}{%
            family={Lambek},
@@ -312,16 +313,35 @@
            given={J.},
            giveni={J\bibinitperiod}}}%
       }
+      \name{editor}{2}{}{%
+        {{hash=63f1c834370ef9403cdd41b2d66f132c}{%
+           family={Agassi},
+           familyi={A\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=00f9b8f6bba99328965ebca80938477e}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {D. Reidel Publishing Co.}%
+      }
       \strng{namehash}{bc225c040004cf5aff8b9441b32e1df8}
       \strng{fullhash}{bc225c040004cf5aff8b9441b32e1df8}
       \strng{bibnamehash}{bc225c040004cf5aff8b9441b32e1df8}
       \strng{authorbibnamehash}{bc225c040004cf5aff8b9441b32e1df8}
       \strng{authornamehash}{bc225c040004cf5aff8b9441b32e1df8}
       \strng{authorfullhash}{bc225c040004cf5aff8b9441b32e1df8}
+      \strng{editorbibnamehash}{6dbd411cc573c225b3ec3061c190109e}
+      \strng{editornamehash}{6dbd411cc573c225b3ec3061c190109e}
+      \strng{editorfullhash}{6dbd411cc573c225b3ec3061c190109e}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Scientific Philosophy Today: Essays in Honor of Mario Bunge}
       \field{title}{The Influence of Heraclitus on Modern Mathematics}
       \field{year}{1981}
       \field{pages}{111\bibrangedash 121}
@@ -414,13 +434,16 @@
       \field{title}{Routledge Handbook of Metaethics}
       \field{year}{2020}
     \endentry
-    \entry{Shanley2002}{article}{}
+    \entry{Shanley2002}{incollection}{}
       \name{author}{1}{}{%
         {{hash=49b712037777c3b7898c5fd8420bba59}{%
            family={Shanley},
            familyi={S\bibinitperiod},
            given={Brian\bibnamedelima J.},
            giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
       }
       \strng{namehash}{49b712037777c3b7898c5fd8420bba59}
       \strng{fullhash}{49b712037777c3b7898c5fd8420bba59}
@@ -432,29 +455,34 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{The Thomist Tradition}
       \field{title}{Religion and Morality}
       \field{year}{2002}
       \field{pages}{128\bibrangedash 150}
       \range{pages}{23}
     \endentry
-    \entry{Skorupski2021}{article}{}
+    \entry{Skorupski2021}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=e622dff9cca9756b0a05e2c65483d0c4}{%
+        {{hash=d40eeff460e92fb261c06f189189fb04}{%
            family={Skorupski},
            familyi={S\bibinitperiod},
-           given={J.},
+           given={John},
            giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{e622dff9cca9756b0a05e2c65483d0c4}
-      \strng{fullhash}{e622dff9cca9756b0a05e2c65483d0c4}
-      \strng{bibnamehash}{e622dff9cca9756b0a05e2c65483d0c4}
-      \strng{authorbibnamehash}{e622dff9cca9756b0a05e2c65483d0c4}
-      \strng{authornamehash}{e622dff9cca9756b0a05e2c65483d0c4}
-      \strng{authorfullhash}{e622dff9cca9756b0a05e2c65483d0c4}
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d40eeff460e92fb261c06f189189fb04}
+      \strng{fullhash}{d40eeff460e92fb261c06f189189fb04}
+      \strng{bibnamehash}{d40eeff460e92fb261c06f189189fb04}
+      \strng{authorbibnamehash}{d40eeff460e92fb261c06f189189fb04}
+      \strng{authornamehash}{d40eeff460e92fb261c06f189189fb04}
+      \strng{authorfullhash}{d40eeff460e92fb261c06f189189fb04}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Being and Freedom: On Late Modern Ethics in Europe}
       \field{title}{Ethics in the Anglo-Scottish Enlightenment}
       \field{year}{2021}
       \field{pages}{298\bibrangedash 350}
