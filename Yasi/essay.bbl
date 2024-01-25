@@ -1,0 +1,1819 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{botha2012progress}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=caf9634387c40d52128e81126b7686ab}{%
+           family={Botha},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d26c400fe7b8bb822adc425b0630886}{%
+           family={Fourie},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c031015a07a034af935ed11a9359185}{%
+           family={Botha},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53013738dcf9ea72e93f240e8273dfe3}{%
+           family={Bischoff},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f106af8fe670050f917327973505e7a7}
+      \strng{fullhash}{b6445b9a362125525c6d417fb2285279}
+      \strng{bibnamehash}{b6445b9a362125525c6d417fb2285279}
+      \strng{authorbibnamehash}{b6445b9a362125525c6d417fb2285279}
+      \strng{authornamehash}{f106af8fe670050f917327973505e7a7}
+      \strng{authorfullhash}{b6445b9a362125525c6d417fb2285279}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of The South African Institute of Mining and Metallurgy}
+      \field{title}{Progress in implementing the Mineral and Petroleum Resources Development Act 28 of 2002 (MPRDA) provisions for the employment of women in mining}
+      \field{year}{2012}
+      \field{pages}{395\bibrangedash 404}
+      \range{pages}{10}
+    \endentry
+    \entry{britton2002incomplete}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57d4198257f2b562f19ef41c1ab95d88}{%
+           family={Britton},
+           familyi={B\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{fullhash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{bibnamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authorbibnamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authornamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authorfullhash}{57d4198257f2b562f19ef41c1ab95d88}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Feminist Journal of Politics}
+      \field{title}{The Incomplete Revolution}
+      \field{year}{2002}
+      \field{pages}{43\bibrangedash 71}
+      \range{pages}{29}
+    \endentry
+    \entry{chinyamurindi2016narrative}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ef30b1e703ea1f9c45884bd3ce919ba}{%
+           family={Chinyamurindi},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{fullhash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{bibnamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authorbibnamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authornamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authorfullhash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sa Journal of Human Resource Management}
+      \field{title}{A narrative investigation into the meaning and experience of career success: Perspectives from women participants}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{cohen2020material}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff0c2d91303beb109609d8aabab79717}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{fullhash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{bibnamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authorbibnamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authornamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authorfullhash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Family Issues}
+      \field{title}{Material and Relational Difficulties: The Impact of the Household Environment on the Emotional Well-Being of Young Black Women Living in Soweto, South Africa}
+      \field{year}{2020}
+      \field{pages}{1307\bibrangedash 1332}
+      \range{pages}{26}
+    \endentry
+    \entry{dosunmu2022discourse}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e332068f37c4de4a3f373507961cff73}{%
+           family={Dosunmu},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{fullhash}{e332068f37c4de4a3f373507961cff73}
+      \strng{bibnamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authorbibnamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authornamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authorfullhash}{e332068f37c4de4a3f373507961cff73}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Governance and Regulation}
+      \field{title}{A Discourse Analysis of Career Experiences of Women in the Developing Country}
+      \field{year}{2022}
+    \endentry
+    \entry{doubell2014perceptions}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2e8a816a5db3d5366d26ead5336e8a7d}{%
+           family={Doubell},
+           familyi={D\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ed3e12461a7330eea645bbf665013be}{%
+           family={Struwig},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{fullhash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{bibnamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authorbibnamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authornamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authorfullhash}{900e9e15ce110db930cb85481e0ba976}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Economic and Management Sciences}
+      \field{title}{PERCEPTIONS OF FACTORS INFLUENCING THE CAREER SUCCESS OF PROFESSIONAL AND BUSINESS WOMEN IN SOUTH AFRICA}
+      \field{year}{2014}
+      \field{pages}{531\bibrangedash 543}
+      \range{pages}{13}
+    \endentry
+    \entry{fenyes2000casualization}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1525736affd55aacb48e6a815d00e69}{%
+           family={Fényes},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=401a68e1cc152e49dc1d575d6b5bee6a}{%
+           family={Lalthapersad},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{fullhash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{bibnamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authorbibnamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authornamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authorfullhash}{176fece9685b3b023e4ea5acce339e73}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Economic and Management Sciences}
+      \field{title}{The casualization of black female labour in South Africa}
+      \field{year}{2000}
+      \field{pages}{165\bibrangedash 188}
+      \range{pages}{24}
+    \endentry
+    \entry{francis2022black}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e0a12a4ee8a7cdc76e2f4d61f882d1ca}{%
+           family={Francis},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ee7b6a2a04329676a59bfd0b88e65ee}{%
+           family={Valodia},
+           familyi={V\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{fullhash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{bibnamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authorbibnamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authornamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authorfullhash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transformation: Critical Perspectives on Southern Africa}
+      \field{title}{Black Economic Empowerment (BEE) in South Africa: Introduction and Review of the Labour Market Literature}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1353/trn.2022.0010
+      \endverb
+    \endentry
+    \entry{geldenhuys2007career}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf6fa95bcb9c8af5ac384cbac231e531}{%
+           family={Geldenhuys},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=651e490593ce9cbbb571799d933e5904}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{fullhash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{bibnamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authorbibnamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authornamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authorfullhash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Education}
+      \field{title}{Career identities of first-year female coloured students}
+      \field{year}{2007}
+      \field{pages}{117\bibrangedash 137}
+      \range{pages}{21}
+    \endentry
+    \entry{gradin2018occupational}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7309f24641ba176f5730f5e085a9adbe}{%
+           family={Gradín},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{fullhash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{bibnamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authorbibnamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authornamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authorfullhash}{7309f24641ba176f5730f5e085a9adbe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Feminist Economics}
+      \field{title}{Occupational Gender Segregation in Post-Apartheid South Africa}
+      \field{year}{2018}
+      \field{pages}{102\bibrangedash 133}
+      \range{pages}{32}
+    \endentry
+    \entry{hinks2002gender}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b85572ac97860de040f1763c86a623d}{%
+           family={Hinks},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{fullhash}{4b85572ac97860de040f1763c86a623d}
+      \strng{bibnamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authorbibnamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authornamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authorfullhash}{4b85572ac97860de040f1763c86a623d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Economics}
+      \field{title}{Gender wage differentials and discrimination in the New South Africa}
+      \field{year}{2002}
+      \field{pages}{2043\bibrangedash 2052}
+      \range{pages}{10}
+    \endentry
+    \entry{jaga2018doing}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee18ad27523809a499a01f8885a861d6}{%
+           family={Jaga},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8535297418087be64f03e6f341f4185}
+      \strng{fullhash}{c8535297418087be64f03e6f341f4185}
+      \strng{bibnamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authorbibnamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authornamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authorfullhash}{c8535297418087be64f03e6f341f4185}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Community, Work \& Family}
+      \field{title}{Doing the ‘gender dance’: Black women professionals negotiating gender, race, work and family in post-apartheid South Africa}
+      \field{year}{2018}
+      \field{pages}{429\bibrangedash 444}
+      \range{pages}{16}
+    \endentry
+    \entry{khau2016comprehensive}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e89b867b565f92cb3eb31a019d1d942a}{%
+           family={Khau},
+           familyi={K\bibinitperiod},
+           given={'Mathabo},
+           giveni={'\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{fullhash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{bibnamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authorbibnamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authornamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authorfullhash}{e89b867b565f92cb3eb31a019d1d942a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transitioning to Gender Equality}
+      \field{title}{Comprehensive Sexuality Education as a Tool towards Gender Equality}
+      \field{year}{2016}
+    \endentry
+    \entry{kokot1998effects}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ae5ba3cb77011087217b2a9e0d8c510}{%
+           family={Kokot},
+           familyi={K\bibinitperiod},
+           given={Shirley\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=628b7bf0372102fb0a5289710a270be6}{%
+           family={Kokot-Louw},
+           familyi={K\bibinithyphendelim L\bibinitperiod},
+           given={Penny\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{fullhash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{bibnamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authorbibnamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authornamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authorfullhash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gifted and talented international}
+      \field{title}{The Effects of Gender Stereotyping on the Career Aspirations of Gifted Black Adolescents}
+      \field{year}{1998}
+      \field{pages}{19\bibrangedash 27}
+      \range{pages}{9}
+    \endentry
+    \entry{lumby2011women}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0d9141a2f9650285c4481250198f7ec3}{%
+           family={Lumby},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9324b46d46599aeb1e55e3e8f43c7664}{%
+           family={Azaola},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{fullhash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{bibnamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authorbibnamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authornamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authorfullhash}{8781a3062ab0e14f14756bc2077103c3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian Journal of Education}
+      \field{title}{Women Principals in Small Schools in South Africa}
+      \field{year}{2011}
+      \field{pages}{73\bibrangedash 85}
+      \range{pages}{13}
+    \endentry
+    \entry{makua2022does}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6bc2864693e1983595b7f38303eb9938}{%
+           family={Makua},
+           familyi={M\bibinitperiod},
+           given={Khutso\bibnamedelima Baltimore},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e76a2cf87b84725c6e422d251b8360bc}{%
+           family={Malungane},
+           familyi={M\bibinitperiod},
+           given={Neo},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc3945fa0277aed17024116c3522f776}{%
+           family={Mswephu},
+           familyi={M\bibinitperiod},
+           given={Khayakazi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b08bd2297d97caa4dd18f6af1c1b778}{%
+           family={Sadiki},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4e67a4aefd7eac32c7b47dba542c58f}
+      \strng{fullhash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{bibnamehash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{authorbibnamehash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{authornamehash}{d4e67a4aefd7eac32c7b47dba542c58f}
+      \strng{authorfullhash}{876b85868cff240ebeb7193f85d433ce}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics, Business, \& Accountancy Ventura}
+      \field{title}{Does Gender Inclusivity Matter for Economic Growth in South Africa? An ARDL approach}
+      \field{year}{2022}
+    \endentry
+    \entry{matotoka2018transformative}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=964c8c9837d9570a01e68fd4e6b91954}{%
+           family={Matotoka},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8d62695765d655f81d820e5ac1d886b7}{%
+           family={Odeku},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{fullhash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{bibnamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authorbibnamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authornamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authorfullhash}{65a0c1c768b3470ba6da59285ff16286}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Review Of Applied Sociology}
+      \field{title}{Transformative Interventions Fostering Mainstreaming of Black South African Women into Managerial Positions in the Private Sector}
+      \field{year}{2018}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+    \endentry
+    \entry{matotoka2021mainstreaming}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=06805a22dfe3096b5d2ee9e470f6385b}{%
+           family={Matotoka},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8d62695765d655f81d820e5ac1d886b7}{%
+           family={Odeku},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eac46846e721c3a1236006287d165b32}
+      \strng{fullhash}{eac46846e721c3a1236006287d165b32}
+      \strng{bibnamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authorbibnamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authornamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authorfullhash}{eac46846e721c3a1236006287d165b32}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LSN: Corporate Law (Topic)}
+      \field{title}{Mainstreaming Black Women into Managerial Positions in the South African Corporate Sector in the Era of the Fourth Industrial Revolution (4IR)}
+      \field{year}{2021}
+    \endentry
+    \entry{micklesfield2013socio}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b469dc58b4ef8443d10e3ccf37e0a14b}{%
+           family={Micklesfield},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{fullhash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{bibnamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authorbibnamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authornamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authorfullhash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cardiovascular Journal of Africa}
+      \field{title}{Socio-cultural, environmental and behavioural determinants of obesity in black South African women}
+      \field{year}{2013}
+      \field{pages}{369\bibrangedash 375}
+      \range{pages}{7}
+    \endentry
+    \entry{mokgoro2003constitutional}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b02f4049a238d7cd9b24fd39d73b01a4}{%
+           family={Mokgoro},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{fullhash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{bibnamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authorbibnamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authornamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authorfullhash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Albany law review}
+      \field{title}{Constitutional Claims for Gender Equality in South Africa: A Judicial Response}
+      \field{year}{2003}
+      \field{pages}{565\bibrangedash 574}
+      \range{pages}{10}
+    \endentry
+    \entry{monnapula-mapesela2017developing}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5644865b0b7cebb94481069453be056d}{%
+           family={Monnapula-Mapesela},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5644865b0b7cebb94481069453be056d}
+      \strng{fullhash}{5644865b0b7cebb94481069453be056d}
+      \strng{bibnamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authorbibnamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authornamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authorfullhash}{5644865b0b7cebb94481069453be056d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Developing as an academic leader in a university of technology in South Africa: Dealing with enabling and constraining teaching and learning environments}
+      \field{year}{2017}
+      \field{pages}{69\bibrangedash 85}
+      \range{pages}{17}
+    \endentry
+    \entry{nattrass2016two}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f840b459eda83d6d451ee5ac665d299}{%
+           family={Nattrass},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e14bf29d7f78509fa2c4142bfb36cd98}{%
+           family={Seekings},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{fullhash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{bibnamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authorbibnamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authornamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authorfullhash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Daedalus}
+      \field{title}{"Two Nations"? Race and Economic Inequality in South Africa Today}
+      \field{year}{2016}
+      \field{pages}{45\bibrangedash 70}
+      \range{pages}{26}
+    \endentry
+    \entry{rabe2012exploring}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16a6edfd3f2a4ba2051437f66e4597ae}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b825cca033de69ad02abe51b2769b481}{%
+           family={Rugunanan},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{fullhash}{060f415892372fe99ab3010efe331ac3}
+      \strng{bibnamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authorbibnamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authornamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authorfullhash}{060f415892372fe99ab3010efe331ac3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gender and Education}
+      \field{title}{Exploring gender and race amongst female sociologists exiting academia in South Africa}
+      \field{year}{2012}
+      \field{pages}{553\bibrangedash 566}
+      \range{pages}{14}
+    \endentry
+    \entry{riordan2011career}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf136077417bde87cb50089d10676cb3}{%
+           family={Riordan},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9147dbfab371e52b731522b6f91e87ec}{%
+           family={Louw-Potgieter},
+           familyi={L\bibinithyphendelim P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{fullhash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{bibnamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authorbibnamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authornamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authorfullhash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Psychology}
+      \field{title}{Career Success of Women Academics in South Africa}
+      \field{year}{2011}
+      \field{pages}{157\bibrangedash 172}
+      \range{pages}{16}
+    \endentry
+    \entry{tirivangasih2018fostering}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e83ea9e65b3e99133cffef27d21e534}{%
+           family={TirivangasiH},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{fullhash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{bibnamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authorbibnamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authornamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authorfullhash}{8e83ea9e65b3e99133cffef27d21e534}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics and Behavioral Studies}
+      \field{title}{Fostering Entrepreneurship Education among Women and Girls in South Africa: Destroying the Gendered and Encultured Patriachies}
+      \field{year}{2018}
+      \field{pages}{227\bibrangedash 236}
+      \range{pages}{10}
+    \endentry
+    \entry{rensburg2021doing}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdfcc008df5372fe8995c81e1df3637d}{%
+           family={Rensburg},
+           familyi={R\bibinitperiod},
+           given={Shandré\bibnamedelimb K.\bibnamedelimi Jansen},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{fullhash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{bibnamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authorbibnamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authornamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authorfullhash}{bdfcc008df5372fe8995c81e1df3637d}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SA Journal of Industrial Psychology}
+      \field{title}{Doing Gender Well: Women’s Perceptions on Gender Equality and Career Progression in the South African Security Industry}
+      \field{year}{2021}
+    \endentry
+    \entry{wadley2000south}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2df2dbe515dbd67791a15944d3d85d1b}{%
+           family={Wadley},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{fullhash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{bibnamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authorbibnamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authornamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authorfullhash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Historical Journal}
+      \field{title}{South African Archaeology, Gender, and the African Renaissance}
+      \field{year}{2000}
+      \field{pages}{81\bibrangedash 95}
+      \range{pages}{15}
+    \endentry
+    \entry{watson1995career}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ed5ea13b83f8c340e334386900e095ff}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d919bb2fd898c2ca1b5ee06dabb4aafc}{%
+           family={Stead},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ce4dc4f59efc5c4ae88b4d7ad421163}{%
+           family={Jager},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi C.\bibnamedelimi D.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff76a8ccb89c16efe6c8fae32faaa340}
+      \strng{fullhash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{bibnamehash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{authorbibnamehash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{authornamehash}{ff76a8ccb89c16efe6c8fae32faaa340}
+      \strng{authorfullhash}{721175503ea72f8a2e831f35200ed2e8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for the Advancement of Counselling}
+      \field{title}{The career development of black and white South African university students}
+      \field{year}{1995}
+      \field{pages}{39\bibrangedash 47}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{botha2012progress}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=caf9634387c40d52128e81126b7686ab}{%
+           family={Botha},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d26c400fe7b8bb822adc425b0630886}{%
+           family={Fourie},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c031015a07a034af935ed11a9359185}{%
+           family={Botha},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53013738dcf9ea72e93f240e8273dfe3}{%
+           family={Bischoff},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f106af8fe670050f917327973505e7a7}
+      \strng{fullhash}{b6445b9a362125525c6d417fb2285279}
+      \strng{bibnamehash}{b6445b9a362125525c6d417fb2285279}
+      \strng{authorbibnamehash}{b6445b9a362125525c6d417fb2285279}
+      \strng{authornamehash}{f106af8fe670050f917327973505e7a7}
+      \strng{authorfullhash}{b6445b9a362125525c6d417fb2285279}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of The South African Institute of Mining and Metallurgy}
+      \field{title}{Progress in implementing the Mineral and Petroleum Resources Development Act 28 of 2002 (MPRDA) provisions for the employment of women in mining}
+      \field{year}{2012}
+      \field{pages}{395\bibrangedash 404}
+      \range{pages}{10}
+    \endentry
+    \entry{britton2002incomplete}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57d4198257f2b562f19ef41c1ab95d88}{%
+           family={Britton},
+           familyi={B\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{fullhash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{bibnamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authorbibnamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authornamehash}{57d4198257f2b562f19ef41c1ab95d88}
+      \strng{authorfullhash}{57d4198257f2b562f19ef41c1ab95d88}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Feminist Journal of Politics}
+      \field{title}{The Incomplete Revolution}
+      \field{year}{2002}
+      \field{pages}{43\bibrangedash 71}
+      \range{pages}{29}
+    \endentry
+    \entry{chinyamurindi2016narrative}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ef30b1e703ea1f9c45884bd3ce919ba}{%
+           family={Chinyamurindi},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{fullhash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{bibnamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authorbibnamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authornamehash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \strng{authorfullhash}{6ef30b1e703ea1f9c45884bd3ce919ba}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sa Journal of Human Resource Management}
+      \field{title}{A narrative investigation into the meaning and experience of career success: Perspectives from women participants}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{cohen2020material}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff0c2d91303beb109609d8aabab79717}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{fullhash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{bibnamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authorbibnamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authornamehash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \strng{authorfullhash}{550dbebcfb95f3fd74f627a3710c35aa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Family Issues}
+      \field{title}{Material and Relational Difficulties: The Impact of the Household Environment on the Emotional Well-Being of Young Black Women Living in Soweto, South Africa}
+      \field{year}{2020}
+      \field{pages}{1307\bibrangedash 1332}
+      \range{pages}{26}
+    \endentry
+    \entry{dosunmu2022discourse}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e332068f37c4de4a3f373507961cff73}{%
+           family={Dosunmu},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{fullhash}{e332068f37c4de4a3f373507961cff73}
+      \strng{bibnamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authorbibnamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authornamehash}{e332068f37c4de4a3f373507961cff73}
+      \strng{authorfullhash}{e332068f37c4de4a3f373507961cff73}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Governance and Regulation}
+      \field{title}{A Discourse Analysis of Career Experiences of Women in the Developing Country}
+      \field{year}{2022}
+    \endentry
+    \entry{doubell2014perceptions}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2e8a816a5db3d5366d26ead5336e8a7d}{%
+           family={Doubell},
+           familyi={D\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ed3e12461a7330eea645bbf665013be}{%
+           family={Struwig},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{fullhash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{bibnamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authorbibnamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authornamehash}{900e9e15ce110db930cb85481e0ba976}
+      \strng{authorfullhash}{900e9e15ce110db930cb85481e0ba976}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Economic and Management Sciences}
+      \field{title}{PERCEPTIONS OF FACTORS INFLUENCING THE CAREER SUCCESS OF PROFESSIONAL AND BUSINESS WOMEN IN SOUTH AFRICA}
+      \field{year}{2014}
+      \field{pages}{531\bibrangedash 543}
+      \range{pages}{13}
+    \endentry
+    \entry{fenyes2000casualization}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1525736affd55aacb48e6a815d00e69}{%
+           family={Fényes},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=401a68e1cc152e49dc1d575d6b5bee6a}{%
+           family={Lalthapersad},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{fullhash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{bibnamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authorbibnamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authornamehash}{176fece9685b3b023e4ea5acce339e73}
+      \strng{authorfullhash}{176fece9685b3b023e4ea5acce339e73}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Economic and Management Sciences}
+      \field{title}{The casualization of black female labour in South Africa}
+      \field{year}{2000}
+      \field{pages}{165\bibrangedash 188}
+      \range{pages}{24}
+    \endentry
+    \entry{francis2022black}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e0a12a4ee8a7cdc76e2f4d61f882d1ca}{%
+           family={Francis},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ee7b6a2a04329676a59bfd0b88e65ee}{%
+           family={Valodia},
+           familyi={V\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{fullhash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{bibnamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authorbibnamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authornamehash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \strng{authorfullhash}{57ea6c9e35f96edcc974fa9ed576db78}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transformation: Critical Perspectives on Southern Africa}
+      \field{title}{Black Economic Empowerment (BEE) in South Africa: Introduction and Review of the Labour Market Literature}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1353/trn.2022.0010
+      \endverb
+    \endentry
+    \entry{geldenhuys2007career}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf6fa95bcb9c8af5ac384cbac231e531}{%
+           family={Geldenhuys},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=651e490593ce9cbbb571799d933e5904}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{fullhash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{bibnamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authorbibnamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authornamehash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \strng{authorfullhash}{5e850fc9c97a8f16f7f8d433ed8247a9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Education}
+      \field{title}{Career identities of first-year female coloured students}
+      \field{year}{2007}
+      \field{pages}{117\bibrangedash 137}
+      \range{pages}{21}
+    \endentry
+    \entry{gradin2018occupational}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7309f24641ba176f5730f5e085a9adbe}{%
+           family={Gradín},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{fullhash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{bibnamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authorbibnamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authornamehash}{7309f24641ba176f5730f5e085a9adbe}
+      \strng{authorfullhash}{7309f24641ba176f5730f5e085a9adbe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Feminist Economics}
+      \field{title}{Occupational Gender Segregation in Post-Apartheid South Africa}
+      \field{year}{2018}
+      \field{pages}{102\bibrangedash 133}
+      \range{pages}{32}
+    \endentry
+    \entry{hinks2002gender}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b85572ac97860de040f1763c86a623d}{%
+           family={Hinks},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{fullhash}{4b85572ac97860de040f1763c86a623d}
+      \strng{bibnamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authorbibnamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authornamehash}{4b85572ac97860de040f1763c86a623d}
+      \strng{authorfullhash}{4b85572ac97860de040f1763c86a623d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Economics}
+      \field{title}{Gender wage differentials and discrimination in the New South Africa}
+      \field{year}{2002}
+      \field{pages}{2043\bibrangedash 2052}
+      \range{pages}{10}
+    \endentry
+    \entry{jaga2018doing}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee18ad27523809a499a01f8885a861d6}{%
+           family={Jaga},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8535297418087be64f03e6f341f4185}
+      \strng{fullhash}{c8535297418087be64f03e6f341f4185}
+      \strng{bibnamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authorbibnamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authornamehash}{c8535297418087be64f03e6f341f4185}
+      \strng{authorfullhash}{c8535297418087be64f03e6f341f4185}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Community, Work \& Family}
+      \field{title}{Doing the ‘gender dance’: Black women professionals negotiating gender, race, work and family in post-apartheid South Africa}
+      \field{year}{2018}
+      \field{pages}{429\bibrangedash 444}
+      \range{pages}{16}
+    \endentry
+    \entry{khau2016comprehensive}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e89b867b565f92cb3eb31a019d1d942a}{%
+           family={Khau},
+           familyi={K\bibinitperiod},
+           given={'Mathabo},
+           giveni={'\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{fullhash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{bibnamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authorbibnamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authornamehash}{e89b867b565f92cb3eb31a019d1d942a}
+      \strng{authorfullhash}{e89b867b565f92cb3eb31a019d1d942a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transitioning to Gender Equality}
+      \field{title}{Comprehensive Sexuality Education as a Tool towards Gender Equality}
+      \field{year}{2016}
+    \endentry
+    \entry{kokot1998effects}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ae5ba3cb77011087217b2a9e0d8c510}{%
+           family={Kokot},
+           familyi={K\bibinitperiod},
+           given={Shirley\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=628b7bf0372102fb0a5289710a270be6}{%
+           family={Kokot-Louw},
+           familyi={K\bibinithyphendelim L\bibinitperiod},
+           given={Penny\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{fullhash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{bibnamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authorbibnamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authornamehash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \strng{authorfullhash}{fbbe45a3a949e0c859e7bb6d2046fc54}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gifted and talented international}
+      \field{title}{The Effects of Gender Stereotyping on the Career Aspirations of Gifted Black Adolescents}
+      \field{year}{1998}
+      \field{pages}{19\bibrangedash 27}
+      \range{pages}{9}
+    \endentry
+    \entry{lumby2011women}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0d9141a2f9650285c4481250198f7ec3}{%
+           family={Lumby},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9324b46d46599aeb1e55e3e8f43c7664}{%
+           family={Azaola},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{fullhash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{bibnamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authorbibnamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authornamehash}{8781a3062ab0e14f14756bc2077103c3}
+      \strng{authorfullhash}{8781a3062ab0e14f14756bc2077103c3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian Journal of Education}
+      \field{title}{Women Principals in Small Schools in South Africa}
+      \field{year}{2011}
+      \field{pages}{73\bibrangedash 85}
+      \range{pages}{13}
+    \endentry
+    \entry{makua2022does}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6bc2864693e1983595b7f38303eb9938}{%
+           family={Makua},
+           familyi={M\bibinitperiod},
+           given={Khutso\bibnamedelima Baltimore},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e76a2cf87b84725c6e422d251b8360bc}{%
+           family={Malungane},
+           familyi={M\bibinitperiod},
+           given={Neo},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc3945fa0277aed17024116c3522f776}{%
+           family={Mswephu},
+           familyi={M\bibinitperiod},
+           given={Khayakazi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b08bd2297d97caa4dd18f6af1c1b778}{%
+           family={Sadiki},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4e67a4aefd7eac32c7b47dba542c58f}
+      \strng{fullhash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{bibnamehash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{authorbibnamehash}{876b85868cff240ebeb7193f85d433ce}
+      \strng{authornamehash}{d4e67a4aefd7eac32c7b47dba542c58f}
+      \strng{authorfullhash}{876b85868cff240ebeb7193f85d433ce}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics, Business, \& Accountancy Ventura}
+      \field{title}{Does Gender Inclusivity Matter for Economic Growth in South Africa? An ARDL approach}
+      \field{year}{2022}
+    \endentry
+    \entry{matotoka2018transformative}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=964c8c9837d9570a01e68fd4e6b91954}{%
+           family={Matotoka},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8d62695765d655f81d820e5ac1d886b7}{%
+           family={Odeku},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{fullhash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{bibnamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authorbibnamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authornamehash}{65a0c1c768b3470ba6da59285ff16286}
+      \strng{authorfullhash}{65a0c1c768b3470ba6da59285ff16286}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Review Of Applied Sociology}
+      \field{title}{Transformative Interventions Fostering Mainstreaming of Black South African Women into Managerial Positions in the Private Sector}
+      \field{year}{2018}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+    \endentry
+    \entry{matotoka2021mainstreaming}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=06805a22dfe3096b5d2ee9e470f6385b}{%
+           family={Matotoka},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8d62695765d655f81d820e5ac1d886b7}{%
+           family={Odeku},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eac46846e721c3a1236006287d165b32}
+      \strng{fullhash}{eac46846e721c3a1236006287d165b32}
+      \strng{bibnamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authorbibnamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authornamehash}{eac46846e721c3a1236006287d165b32}
+      \strng{authorfullhash}{eac46846e721c3a1236006287d165b32}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LSN: Corporate Law (Topic)}
+      \field{title}{Mainstreaming Black Women into Managerial Positions in the South African Corporate Sector in the Era of the Fourth Industrial Revolution (4IR)}
+      \field{year}{2021}
+    \endentry
+    \entry{micklesfield2013socio}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b469dc58b4ef8443d10e3ccf37e0a14b}{%
+           family={Micklesfield},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{fullhash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{bibnamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authorbibnamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authornamehash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \strng{authorfullhash}{2030bfa5ac96f45c382239c6c69ad2ad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cardiovascular Journal of Africa}
+      \field{title}{Socio-cultural, environmental and behavioural determinants of obesity in black South African women}
+      \field{year}{2013}
+      \field{pages}{369\bibrangedash 375}
+      \range{pages}{7}
+    \endentry
+    \entry{mokgoro2003constitutional}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b02f4049a238d7cd9b24fd39d73b01a4}{%
+           family={Mokgoro},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{fullhash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{bibnamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authorbibnamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authornamehash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \strng{authorfullhash}{b02f4049a238d7cd9b24fd39d73b01a4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Albany law review}
+      \field{title}{Constitutional Claims for Gender Equality in South Africa: A Judicial Response}
+      \field{year}{2003}
+      \field{pages}{565\bibrangedash 574}
+      \range{pages}{10}
+    \endentry
+    \entry{monnapula-mapesela2017developing}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5644865b0b7cebb94481069453be056d}{%
+           family={Monnapula-Mapesela},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5644865b0b7cebb94481069453be056d}
+      \strng{fullhash}{5644865b0b7cebb94481069453be056d}
+      \strng{bibnamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authorbibnamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authornamehash}{5644865b0b7cebb94481069453be056d}
+      \strng{authorfullhash}{5644865b0b7cebb94481069453be056d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Developing as an academic leader in a university of technology in South Africa: Dealing with enabling and constraining teaching and learning environments}
+      \field{year}{2017}
+      \field{pages}{69\bibrangedash 85}
+      \range{pages}{17}
+    \endentry
+    \entry{nattrass2016two}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f840b459eda83d6d451ee5ac665d299}{%
+           family={Nattrass},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e14bf29d7f78509fa2c4142bfb36cd98}{%
+           family={Seekings},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{fullhash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{bibnamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authorbibnamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authornamehash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \strng{authorfullhash}{24f501b2e8912e9b77f1bd9a9f3eea1d}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Daedalus}
+      \field{title}{"Two Nations"? Race and Economic Inequality in South Africa Today}
+      \field{year}{2016}
+      \field{pages}{45\bibrangedash 70}
+      \range{pages}{26}
+    \endentry
+    \entry{rabe2012exploring}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16a6edfd3f2a4ba2051437f66e4597ae}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b825cca033de69ad02abe51b2769b481}{%
+           family={Rugunanan},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{fullhash}{060f415892372fe99ab3010efe331ac3}
+      \strng{bibnamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authorbibnamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authornamehash}{060f415892372fe99ab3010efe331ac3}
+      \strng{authorfullhash}{060f415892372fe99ab3010efe331ac3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gender and Education}
+      \field{title}{Exploring gender and race amongst female sociologists exiting academia in South Africa}
+      \field{year}{2012}
+      \field{pages}{553\bibrangedash 566}
+      \range{pages}{14}
+    \endentry
+    \entry{riordan2011career}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf136077417bde87cb50089d10676cb3}{%
+           family={Riordan},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9147dbfab371e52b731522b6f91e87ec}{%
+           family={Louw-Potgieter},
+           familyi={L\bibinithyphendelim P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{fullhash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{bibnamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authorbibnamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authornamehash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \strng{authorfullhash}{79f67cf3702c98369573c64d3d4bf7d4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Psychology}
+      \field{title}{Career Success of Women Academics in South Africa}
+      \field{year}{2011}
+      \field{pages}{157\bibrangedash 172}
+      \range{pages}{16}
+    \endentry
+    \entry{tirivangasih2018fostering}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e83ea9e65b3e99133cffef27d21e534}{%
+           family={TirivangasiH},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{fullhash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{bibnamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authorbibnamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authornamehash}{8e83ea9e65b3e99133cffef27d21e534}
+      \strng{authorfullhash}{8e83ea9e65b3e99133cffef27d21e534}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economics and Behavioral Studies}
+      \field{title}{Fostering Entrepreneurship Education among Women and Girls in South Africa: Destroying the Gendered and Encultured Patriachies}
+      \field{year}{2018}
+      \field{pages}{227\bibrangedash 236}
+      \range{pages}{10}
+    \endentry
+    \entry{rensburg2021doing}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdfcc008df5372fe8995c81e1df3637d}{%
+           family={Rensburg},
+           familyi={R\bibinitperiod},
+           given={Shandré\bibnamedelimb K.\bibnamedelimi Jansen},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{fullhash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{bibnamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authorbibnamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authornamehash}{bdfcc008df5372fe8995c81e1df3637d}
+      \strng{authorfullhash}{bdfcc008df5372fe8995c81e1df3637d}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SA Journal of Industrial Psychology}
+      \field{title}{Doing Gender Well: Women’s Perceptions on Gender Equality and Career Progression in the South African Security Industry}
+      \field{year}{2021}
+    \endentry
+    \entry{wadley2000south}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2df2dbe515dbd67791a15944d3d85d1b}{%
+           family={Wadley},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{fullhash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{bibnamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authorbibnamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authornamehash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \strng{authorfullhash}{2df2dbe515dbd67791a15944d3d85d1b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Historical Journal}
+      \field{title}{South African Archaeology, Gender, and the African Renaissance}
+      \field{year}{2000}
+      \field{pages}{81\bibrangedash 95}
+      \range{pages}{15}
+    \endentry
+    \entry{watson1995career}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ed5ea13b83f8c340e334386900e095ff}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d919bb2fd898c2ca1b5ee06dabb4aafc}{%
+           family={Stead},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ce4dc4f59efc5c4ae88b4d7ad421163}{%
+           family={Jager},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi C.\bibnamedelimi D.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff76a8ccb89c16efe6c8fae32faaa340}
+      \strng{fullhash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{bibnamehash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{authorbibnamehash}{721175503ea72f8a2e831f35200ed2e8}
+      \strng{authornamehash}{ff76a8ccb89c16efe6c8fae32faaa340}
+      \strng{authorfullhash}{721175503ea72f8a2e831f35200ed2e8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for the Advancement of Counselling}
+      \field{title}{The career development of black and white South African university students}
+      \field{year}{1995}
+      \field{pages}{39\bibrangedash 47}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

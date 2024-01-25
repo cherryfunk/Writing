@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Metaethics_essay"] 1705825148 "Metaethics_essay.bcf" "Metaethics_essay.bbl" "Metaethics_essay" 1705825152 0
+["biber Metaethics_essay"] 0 "Metaethics_essay.bcf" "Metaethics_essay.bbl" "Metaethics_essay" 1706089699 -1
   "./Philosophical_Essay_References.bib" 1705825147 4576 ba1d8dcceeb91e27f8e2651ebf2b7707 ""
-  "Metaethics_essay.bcf" 1705825152 109583 52204b1538940a15760464302b03f924 "pdflatex"
+  "Metaethics_essay.bcf" 1706089699 109583 52204b1538940a15760464302b03f924 "pdflatex"
   (generated)
   "Metaethics_essay.bbl"
   "Metaethics_essay.blg"
   (rewritten before read)
-["pdflatex"] 1705825150 "/home/danie/Git/Writing/Metaethics/Metaethics_essay.tex" "Metaethics_essay.pdf" "Metaethics_essay" 1705825152 0
-  "/home/danie/Git/Writing/Metaethics/Metaethics_essay.tex" 1705824916 29156 3c6df143ffa879b2ef4131a1f10ac37a ""
+["pdflatex"] 1706089697 "/home/danie/Git/Writing/Metaethics/Metaethics_essay.tex" "Metaethics_essay.pdf" "Metaethics_essay" 1706089699 0
+  "/home/danie/Git/Writing/Metaethics/Metaethics_essay.tex" 1706089697 28616 be0d977e2f221a0176c75bf89585b190 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -87,10 +87,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700145161 4714027 87618d7f896f286b6b7c4cf67f54d550 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700145201 8213594 fc64d402fed6712eca9642543084a617 ""
   "/usr/local/texlive/2023/texmf.cnf" 1700145153 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Metaethics_essay.aux" 1705825152 8797 68290d5a346dbca67c25717f52fb1cae "pdflatex"
+  "Metaethics_essay.aux" 1706089699 8797 e8eeee1e6c4732343e09e89f3abe55d8 "pdflatex"
   "Metaethics_essay.bbl" 1705825149 23107 d525028ddb923d48cfe213bdf85eb68a "biber Metaethics_essay"
-  "Metaethics_essay.run.xml" 1705825152 2419 86e161e7fc82786fe007022b4c9495cf "pdflatex"
-  "Metaethics_essay.tex" 1705824916 29156 3c6df143ffa879b2ef4131a1f10ac37a ""
+  "Metaethics_essay.run.xml" 1706089699 2419 86e161e7fc82786fe007022b4c9495cf "pdflatex"
+  "Metaethics_essay.tex" 1706089697 28616 be0d977e2f221a0176c75bf89585b190 ""
   (generated)
   "Metaethics_essay.aux"
   "Metaethics_essay.bcf"

@@ -1,0 +1,6 @@
+PWD /home/danie/Git/Writing/Sintia
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/danie/Git/Writing/Sintia/state_essay.tex
+OUTPUT state_essay.log

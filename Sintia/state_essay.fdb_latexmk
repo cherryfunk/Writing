@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1706193559 "/home/danie/Git/Writing/Sintia/state_essay.tex" "state_essay.pdf" "state_essay" 1706193559 2
+  "/home/danie/Git/Writing/Sintia/state_essay.tex" 1706193558 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1697057529 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700145201 8213594 fc64d402fed6712eca9642543084a617 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1700145153 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "state_essay.aux" 1706193559 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "state_essay.tex" 1706193558 0 d41d8cd98f00b204e9800998ecf8427e ""
+  (generated)
+  "state_essay.aux"
+  "state_essay.log"
+  "state_essay.pdf"
+  (rewritten before read)
