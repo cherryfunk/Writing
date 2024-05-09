@@ -1,0 +1,88 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{MacLane1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d35756c9f39a938d9533376dfaa5ad43}{%
+           family={MacLane},
+           familyi={M\bibinitperiod},
+           given={Saunders},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d35756c9f39a938d9533376dfaa5ad43}
+      \strng{fullhash}{d35756c9f39a938d9533376dfaa5ad43}
+      \strng{bibnamehash}{d35756c9f39a938d9533376dfaa5ad43}
+      \strng{authorbibnamehash}{d35756c9f39a938d9533376dfaa5ad43}
+      \strng{authornamehash}{d35756c9f39a938d9533376dfaa5ad43}
+      \strng{authorfullhash}{d35756c9f39a938d9533376dfaa5ad43}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Categories for the Working Mathematician}
+      \field{year}{1997}
+    \endentry
+    \entry{Platon2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e2baf3f5223080b8067f5af7843427cc}{%
+           family={Platon},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=46b600169de0a813c5fe23b2da36c954}{%
+           family={Eigler},
+           familyi={E\bibinitperiod},
+           given={Gunther},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{2}{%
+        {German}%
+        {Greek}%
+      }
+      \list{publisher}{1}{%
+        {Wissenschaftliche Buchgesellschaft (wbg)}%
+      }
+      \strng{namehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{fullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{bibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorbibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authornamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorfullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{editorbibnamehash}{46b600169de0a813c5fe23b2da36c954}
+      \strng{editornamehash}{46b600169de0a813c5fe23b2da36c954}
+      \strng{editorfullhash}{46b600169de0a813c5fe23b2da36c954}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6., unveränderte Auflage}
+      \field{isbn}{978-3-534-24059-3}
+      \field{title}{Werke in acht Bänden}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
