@@ -1,1 +1,13 @@
 subsectionOntologiy
+olog
+Phaedro
+sysmer
+Sysmers
+Schellhorn
+Ologs
+metacategory
+Sysmer
+metacategories
+sysmers
+Adjoints
+adjoints

@@ -1,4 +1,6 @@
 \documentclass[12pt,a4paper]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{csquotes}
@@ -6,29 +8,88 @@
 \usepackage{biblatex}
 \addbibresource{references.bib}
 
-\title{Symsers: Extensions of Categories and Systems in AI and other Fields} 
+\title{Sysmers: Extensions of Categories and Systems in AI and other Fields} 
 \author{Daniel Schellhorn}
 \begin{document}
 
 \maketitle
 
 \section{Introduction}
+“...We know only a very few — and, therefore, very precious—schemes whose unifying powers cross many realms.” — Marvin Minsky. \footcite[?]{Minsky1988}
+\newline
 
-\section{Main}
+The relations between categories and systems are not yet fully understood. The concept of a "sysmer" is a generalization of the concept of a category in order to understand and guide the way for the precise and formal mathematical description of (symbolic) systems, but also of ontology \& ontologies, cognitive architectures, UMLs \& ERDs, syntax trees, diagrams, and description logics.
 
-\subsection{"Sysms" vs. Categories\footcite{MacLane1997} (Mathematics)}
-\subsection{Description Logics (Logics)}
+\section{"Sysms" vs. Categories\footcite{MacLane1997} (Mathematics)}
 
-\subsection{Ontologies \& Ontology\footcite{Platon2010} (AI and Philosophy)}
+\subsection{The Architecture of Mathematics}
+We categorize the basic structures of mathematics\footcite[68]{Basieux2000} in the following categories (which are also categories in the mathematical sense):
 
-\subsection{UMLs \& ERDs (Software Design and Data Science)}
+...(sysmers in here)...
 
-\subsection{Cognitive Architectures (Cognitive Science)}
+\subsection{Categories}
 
-\subsection{Syntax Trees (Linguistics and Language)}
-\subsection{Diagrams (Semiotics and Symbology)} 
+\subsection{Ologs}
+``ologs, which serve as a bridge between mathematics and various conceptual landscapes.'' \footcite[24]{Spivak2014}
 
-\subsection{"Sysmers" vs. Systems (Systems Theory)}
+``A type is an abstract concept, a distinction the author has made. Each type is represented as a box containing a singular indefinite noun phrase.'' \footcite[25]{Spivak2014}
+
+``when it comes to ologs, the word aspect simply means function. The domain A of the function \( f: A \to B \) is the thing we are measuring, and the codomain is the set of possible answers [...].'' \footcite[27]{Spivak2014}
+
+The definition of a functional Olog is expanded by Spivak to the notion relational Olog in the following way:
+\begin{quote}
+In the context of the power-set monad, a morphism \( f: X \to Y \) between sets \( X \) and \( Y \), as objects in \( \textbf{Kl}(\mathcal{P}) \), becomes a binary relation on \( X \) and \( Y \) rather than a function. [...] An olog in which arrows correspond to mere binary relations rather than functions might 
+be called a \textit{relational olog}. \footcite[447]{Spivak2014}
+\end{quote}
+
+\subsection{Schemas}
+``a database schema is nothing but an olog in disguise. The diﬀerence is basically the readability requirements for ologs.'' \footcite[194]{Spivak2014}
+
+``A category (as distinguished from a metacategory) will mean any interpretation of the category axioms within set theory'' \footcite[10]{MacLane1997}
+
+Defining metacategories and categories as sysmers, a metacategory would be a sysmer schema and a category would be a sysmer instance:
+
+...(put sysmers in here)...
+
+Now if there are instances and schemas of sysmers, then there are most likely also operations on sysmers just like the ``functional requirements of the application. These consist of the userdefined operations (or transactions) that will be applied to the database'' \footcite[61]{ElmasriNavathe2015}
+
+\subsection{Monads and Operads}
+
+\subsection{Sysms}
+
+\section{Description Logics (Logics)}
+
+\section{Ontologies \& Ontology\footcite{Platon2010} (AI and Philosophy)}
+\subsection{Ontology in Philosophy}
+
+relate: Cogn Arch. to Self Ontology of Plato (Instanz,Tugenden, Gute für jeweilige Instanz (Health, Wealth, Wisdom, Happiness,...), Vermögen, Aktivität, Function) and Psych. Types of Jung (Introversion, Extroversion, Thinking, Feeling, Sensing, Intuition) (sonnengleichnis pic in zotero)
+
+In the Republic and Phaedro by Plato we hear about at least 3 types of ontology. 
+
+The first distinguishes Gold, Silver and Bronze classes of the State.
+
+Secondly these correspond with the instances of the Self; Soul, Body and Mind or Reason, Desire and Emotion.
+
+The third level of ontology is the given by Allegories of the Line and of the Cave.
+
+Is maybe the Allegory of the Cave the first description of a cognitive architecture?
+
+Or is it also a convincing story of the cave, and to overcome and question that story is exactly the task of Philosophy? 
+
+\section{UMLs \& ERDs (Software Design and Data Science) \footcite{ElmasriNavathe2015}}
+
+When referring to ER I always mean to refer to EER, as we will always use the enhanced version of the ER model, in this sense it is still the ER model but only a newer version, in other terms $EER = ER 2.0 \subseteq ER \supseteq ER 1.0 $. \footcite[107]{ElmasriNavathe2015}
+
+\section{Cognitive Architectures (Cognitive Science)}
+What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle. — Marvin Minsky. \footcite[308]{Minsky1988}
+
+\section{Syntax Trees\footcite{Carnie2012} (Linguistics and Language)}
+\section{Diagrams (Semiotics and Symbology\footcite{Jung1964})} 
+
+\section{"Sysmers" vs. Systems (Systems Theory)}
+
+\subsection{Application in Category Theory}
+We can apply sysmers in order to get "canonically ordered" diagrams of (meta-)categories and universal constructions like limits, as well as adjoints and natural transformations. This helps us to better generalize and abstract the underlying structures of these categorical constructions and also improves memory and intuition when working within the jungle of categories.
 
 
 \section{Conclusion}

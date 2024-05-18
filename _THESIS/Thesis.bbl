@@ -19,6 +19,131 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Basieux2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=055c377fe8093dce313ecdebd399b2a1}{%
+           family={Basieux},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {German}%
+      }
+      \list{publisher}{1}{%
+        {Rowohlt Taschenbuch}%
+      }
+      \strng{namehash}{055c377fe8093dce313ecdebd399b2a1}
+      \strng{fullhash}{055c377fe8093dce313ecdebd399b2a1}
+      \strng{bibnamehash}{055c377fe8093dce313ecdebd399b2a1}
+      \strng{authorbibnamehash}{055c377fe8093dce313ecdebd399b2a1}
+      \strng{authornamehash}{055c377fe8093dce313ecdebd399b2a1}
+      \strng{authorfullhash}{055c377fe8093dce313ecdebd399b2a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5}
+      \field{isbn}{978-3499611193}
+      \field{title}{Die Architektur der Mathematik: Denken in Strukturen}
+      \field{year}{2000}
+    \endentry
+    \entry{Carnie2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0a3b3f7e44d8fd7fddb183e1d5ad04f3}{%
+           family={Carnie},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \strng{fullhash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \strng{bibnamehash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \strng{authorbibnamehash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \strng{authornamehash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \strng{authorfullhash}{0a3b3f7e44d8fd7fddb183e1d5ad04f3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{978-0470655313}
+      \field{series}{Introducing Linguistics, Band 4}
+      \field{title}{Syntax: A Generative Introduction}
+      \field{year}{2012}
+      \field{pages}{542}
+      \range{pages}{1}
+    \endentry
+    \entry{ElmasriNavathe2015}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c7e2fe1a0e649bf469f3feb7c5aa840d}{%
+           family={Elmasri},
+           familyi={E\bibinitperiod},
+           given={Ramez},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4ae94109c6efa1688beb655559324ba2}{%
+           family={Navathe},
+           familyi={N\bibinitperiod},
+           given={Shamkant\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley Pub Co Inc}%
+      }
+      \strng{namehash}{2e8829be23557c692dac07b198a7df6e}
+      \strng{fullhash}{2e8829be23557c692dac07b198a7df6e}
+      \strng{bibnamehash}{2e8829be23557c692dac07b198a7df6e}
+      \strng{authorbibnamehash}{2e8829be23557c692dac07b198a7df6e}
+      \strng{authornamehash}{2e8829be23557c692dac07b198a7df6e}
+      \strng{authorfullhash}{2e8829be23557c692dac07b198a7df6e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Revised edition}
+      \field{isbn}{978-0133970777}
+      \field{title}{Fundamentals of Database Systems}
+      \field{year}{2015}
+      \field{pages}{1280}
+      \range{pages}{1}
+    \endentry
+    \entry{Jung1964}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=74b690d5989f42d77a5c4dbd03c6c757}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \strng{fullhash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \strng{bibnamehash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \strng{editorbibnamehash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \strng{editornamehash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \strng{editorfullhash}{74b690d5989f42d77a5c4dbd03c6c757}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-385-05221-9}
+      \field{title}{Man and His Symbols}
+      \field{year}{1964}
+    \endentry
     \entry{MacLane1997}{book}{}
       \name{author}{1}{}{%
         {{hash=d35756c9f39a938d9533376dfaa5ad43}{%
@@ -26,6 +151,9 @@
            familyi={M\bibinitperiod},
            given={Saunders},
            giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
       }
       \list{publisher}{1}{%
         {Springer}%
@@ -43,6 +171,35 @@
       \field{edition}{2}
       \field{title}{Categories for the Working Mathematician}
       \field{year}{1997}
+    \endentry
+    \entry{Minsky1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2fe335dc52e059141e41e4fada160d64}{%
+           family={Minsky},
+           familyi={M\bibinitperiod},
+           given={Marvin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{2fe335dc52e059141e41e4fada160d64}
+      \strng{fullhash}{2fe335dc52e059141e41e4fada160d64}
+      \strng{bibnamehash}{2fe335dc52e059141e41e4fada160d64}
+      \strng{authorbibnamehash}{2fe335dc52e059141e41e4fada160d64}
+      \strng{authornamehash}{2fe335dc52e059141e41e4fada160d64}
+      \strng{authorfullhash}{2fe335dc52e059141e41e4fada160d64}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Illustrated}
+      \field{isbn}{978-0671657130}
+      \field{title}{The Society Of Mind}
+      \field{year}{1988}
     \endentry
     \entry{Platon2010}{book}{}
       \name{author}{1}{}{%
@@ -81,6 +238,35 @@
       \field{isbn}{978-3-534-24059-3}
       \field{title}{Werke in acht Bänden}
       \field{year}{2010}
+    \endentry
+    \entry{Spivak2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7166f43636239436a149410550ca5a32}{%
+           family={Spivak},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{7166f43636239436a149410550ca5a32}
+      \strng{fullhash}{7166f43636239436a149410550ca5a32}
+      \strng{bibnamehash}{7166f43636239436a149410550ca5a32}
+      \strng{authorbibnamehash}{7166f43636239436a149410550ca5a32}
+      \strng{authornamehash}{7166f43636239436a149410550ca5a32}
+      \strng{authorfullhash}{7166f43636239436a149410550ca5a32}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{978-0262028134}
+      \field{title}{Category Theory for the Sciences}
+      \field{year}{2014}
     \endentry
   \enddatalist
 \endrefsection
