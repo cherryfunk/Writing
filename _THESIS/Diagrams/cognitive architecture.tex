@@ -7,46 +7,48 @@
 
 \begin{document}
 
-\begin{equation*}
-\begin{tikzcd}[ampersand replacement=\&,sep=normal, cells={nodes={draw, minimum width=1cm, minimum height=0.5cm, anchor=center}}]
-	\&\&\&\&\&\&\& Self \\
+% https://q.uiver.app/#q=WzAsMTQsWzYsMCwiU2VsZiJdLFs2LDIsIkludGVsbGVjdCJdLFs2LDQsIlNsb3cgTWluZCJdLFs2LDUsIkVnbyJdLFsyLDYsIk9iamVjdCJdLFs0LDYsIkJvZHkiXSxbOCw2LCJTb3VsIl0sWzEwLDYsIlN1YmplY3QiXSxbNiw3LCJTb2NpbyJdLFs2LDgsIkZhc3QgTWluZCJdLFs2LDEwLCJMaWZlIl0sWzYsMTIsIkRlYXRoIl0sWzAsNiwiTmF0dXJlIl0sWzEyLDYsIkN1bHR1cmUiXSxbMCw3LCJNb3RpdmF0aW8iXSxbMSwwLCJEZWNpc2lvIiwxXSxbMiwxLCJDb2duaXRpbyIsMV0sWzIsNiwiRW1vdGlvIl0sWzMsNiwiRW1vdGlvIiwxXSxbMyw4LCJWaW5jdWx1bSIsMSx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6ImFycm93aGVhZCJ9fX1dLFs0LDAsIk9ic2VydmF0aW8iLDAseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJzcXVpZ2dseSJ9fX1dLFs0LDUsIlNlbnNhdGlvIl0sWzQsMTEsIlByZXNlcnZhdGlvIiwyLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoic3F1aWdnbHkifX19XSxbNSwyLCJJbnRlcnByYXRhdGlvIl0sWzUsMywiQ29uZGl0aW8iLDFdLFs1LDksIkludHVpdGlvIiwyXSxbNiw3LCJNb3RpdmF0aW8iXSxbNiw4LCJFeHByZXNzaW8iLDFdLFs4LDUsIntTZW5zYXRpb2B9IiwxXSxbOSw2LCJFbW90aW8iLDJdLFs5LDEwLCJNZW1vcml6YXRpbyIsMV0sWzEwLDExLCJJbnN0aWN0aW8iLDFdLFsxMSw3LCJNb3RpdmF0aW8iLDJdLFsxMiw0LCJFbWVyZ2VudGlvIl0sWzcsMTMsIkNyZWF0aW8iXV0=
+\[
+	\resizebox{1.35\textwidth}{!}{
+	\begin{tikzcd}[ampersand replacement=\&,sep=normal, cells={nodes={draw, minimum width=1cm, minimum height=0.5cm, anchor=center}}]
+	\&\&\&\&\&\& Self \\
 	\\
-	\&\&\&\&\&\&\& Intellect \\
+	\&\&\&\&\&\& Intellect \\
 	\\
-	\&\&\&\&\&\&\& {Slow Mind} \\
+	\&\&\&\&\&\& {Slow Mind} \\
+	\&\&\&\&\&\& Ego \\
+	Nature \&\& Object \&\& Body \&\&\&\& Soul \&\& Subject \&\& Culture \\
+	\&\&\&\&\&\& Socio \\
+	\&\&\&\&\&\& {Fast Mind} \\
 	\\
-	\&\&\&\&\&\&\& Ego \\
-	Nature \&\& Object \&\& Body \&\&\&\&\&\& Soul \&\& Subject \&\& Culture \\
-	\&\&\&\&\&\&\& Socio \\
+	\&\&\&\&\&\& Life \\
 	\\
-	\&\&\&\&\&\&\& {Fast Mind} \\
-	\\
-	\&\&\&\&\&\&\& Life \\
-	\\
-	\&\&\&\&\&\&\& Death
-	\arrow["Motivatio", from=1-8, to=8-13]
-	\arrow["Decisio"{description}, from=3-8, to=1-8]
-	\arrow["Cognitio"{description}, from=5-8, to=3-8]
-	\arrow["Emotio", from=5-8, to=8-11]
-	\arrow["Emotio"{description}, from=7-8, to=8-11]
-	\arrow["Vinculum"{description}, tail reversed, from=7-8, to=9-8]
-	\arrow["Emergentio", from=8-1, to=8-3]
-	\arrow["Observatio", squiggly, from=8-3, to=1-8]
-	\arrow["Sensatio", from=8-3, to=8-5]
-	\arrow["Preservatio"', squiggly, from=8-3, to=15-8]
-	\arrow["Interpratatio", from=8-5, to=5-8]
-	\arrow["Conditio"{description}, from=8-5, to=7-8]
-	\arrow["Intuitio"', from=8-5, to=11-8]
-	\arrow["Motivatio", from=8-11, to=8-13]
-	\arrow["Expressio"{description}, from=8-11, to=9-8]
-	\arrow["Creatio", from=8-13, to=8-15]
-	\arrow["{Sensatio`}"{description}, from=9-8, to=8-5]
-	\arrow["Emotio"', from=11-8, to=8-11]
-	\arrow["Memorizatio"{description}, from=11-8, to=13-8]
-	\arrow["Instictio"{description}, from=13-8, to=15-8]
-	\arrow["Motivatio"', from=15-8, to=8-13]
+	\&\&\&\&\&\& Death
+	\arrow["Motivatio", from=1-7, to=7-11]
+	\arrow["Decisio"{description}, from=3-7, to=1-7]
+	\arrow["Cognitio"{description}, from=5-7, to=3-7]
+	\arrow["Emotio", from=5-7, to=7-9]
+	\arrow["Emotio"{description}, from=6-7, to=7-9]
+	\arrow["Vinculum"{description}, tail reversed, from=6-7, to=8-7]
+	\arrow["Emergentio", from=7-1, to=7-3]
+	\arrow["Observatio", squiggly, from=7-3, to=1-7]
+	\arrow["Sensatio", from=7-3, to=7-5]
+	\arrow["Preservatio"', squiggly, from=7-3, to=13-7]
+	\arrow["Interpratatio", from=7-5, to=5-7]
+	\arrow["Conditio"{description}, from=7-5, to=6-7]
+	\arrow["Intuitio"', from=7-5, to=9-7]
+	\arrow["Motivatio", from=7-9, to=7-11]
+	\arrow["Expressio"{description}, from=7-9, to=8-7]
+	\arrow["Creatio", from=7-11, to=7-13]
+	\arrow["{{Sensatio`}}"{description}, from=8-7, to=7-5]
+	\arrow["Emotio"', from=9-7, to=7-9]
+	\arrow["Memorizatio"{description}, from=9-7, to=11-7]
+	\arrow["Instictio"{description}, from=11-7, to=13-7]
+	\arrow["Motivatio"', from=13-7, to=7-11]
 \end{tikzcd}
-\end{equation*}
+}
+\]
+
 
 \begin{center}
 \begin{equation*}
@@ -146,8 +148,5 @@
 	\draw[-{Triangle[scale=1.0]}] (Death) -- node[right] {Instictio} (Death);
 	\draw[crowsfoot one] (Death) -- node[right] {Motivatio} (Subject);
 \end{tikzpicture}
-
-\end{document}
-
 
 \end{document}

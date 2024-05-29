@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  27 MAY 2024 10:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  29 MAY 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,20 +405,20 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (277.7804pt too wide) detected at line 49
+Overfull \hbox (120.75389pt too wide) detected at line 50
 []
  []
 
 
-Overfull \hbox (137.99611pt too wide) detected at line 93
+Overfull \hbox (137.99611pt too wide) detected at line 95
 []
  []
 
@@ -426,13 +426,13 @@ Overfull \hbox (137.99611pt too wide) detected at line 93
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package pgf Warning: Returning node center instead of a point on node border. Did you specify a point identical to the center of node ``Death''? on input line 146.
+Package pgf Warning: Returning node center instead of a point on node border. Did you specify a point identical to the center of node ``Death''? on input line 148.
 
 
-Package pgf Warning: Returning node center instead of a point on node border. Did you specify a point identical to the center of node ``Death''? on input line 146.
+Package pgf Warning: Returning node center instead of a point on node border. Did you specify a point identical to the center of node ``Death''? on input line 148.
 
 
-Overfull \hbox (192.19598pt too wide) in paragraph at lines 148--149
+Overfull \hbox (192.19598pt too wide) in paragraph at lines 150--151
 [][] 
  []
 
@@ -443,15 +443,15 @@ L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16106 strings out of 474267
- 347009 string characters out of 5747441
- 1975555 words of memory out of 5000000
- 38035 multiletter control sequences out of 15000+600000
+ 16133 strings out of 474267
+ 347554 string characters out of 5747441
+ 1973555 words of memory out of 5000000
+ 38062 multiletter control sequences out of 15000+600000
  559768 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,16n,135p,551b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,16n,135p,1089b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "cognitive architecture.pdf" (3 pages, 69815 bytes).
+Output written on "cognitive architecture.pdf" (3 pages, 69508 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream

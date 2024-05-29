@@ -6,7 +6,12 @@
 \usepackage{csquotes}
 \usepackage[backend=biber, style=authortitle, citestyle=verbose-trad1]{biblatex}
 \usepackage{biblatex}
+\usepackage{quiver}
+\usepackage{tikz}
+\usepackage{tikz-cd}
 \addbibresource{references.bib}
+\usetikzlibrary{positioning, shapes.geometric, arrows.meta}
+
 
 \title{Sysmers as Systems: Entity-Relationship and categorical diagrams with syntactic structure applied to cognitive architectures and ontologies} 
 \author{Daniel Schellhorn}
@@ -18,11 +23,10 @@
 “...We know only a very few — and, therefore, very precious—schemes whose unifying powers cross many realms.” — Marvin Minsky. \footcite[?]{Minsky1988}
 \newline
 
-The relations between categories and systems are not yet fully understood. The concept of a "sysmer" is a generalization of the concept of a category in order to understand and guide the way for the precise and formal mathematical description of (symbolic) systems, but also of ontology \& ontologies, cognitive architectures, UMLs \& ERDs, syntax trees, diagrams, and description logics.
-
+The purpose of this thesis is to get one very tiny step in the right direction of achieving the goal of creating such a realm-crossing scheme. The relations between categories and systems are not yet fully understood. The concept of a "sysmer" is a generalization of the concept of a category in order to understand and guide the way for the precise and formal mathematical description of (symbolic) systems, but also of ontology \& ontologies, cognitive architectures and ERDs
 \section{Entity-Relationships (Data Science) \footcite{ElmasriNavathe2015}}
 
-When referring to ER I always mean to refer to EER, as we will always use the enhanced version of the ER model, in this sense it is still the ER model but only a newer version, in other terms $EER = ER 2.0 \subseteq ER \supseteq ER 1.0 $. \footcite[107]{ElmasriNavathe2015}
+When referring to ER I always mean to refer to EER, as we will always use the enhanced version of the ER model, in this sense it is still the ER model but only a newer version $ER 2.0$, in other terms $EER = ER 2.0 \subseteq ER \supseteq ER 1.0 $. \footcite[107]{ElmasriNavathe2015}
 
 \section{"Sysms" vs. Categories\footcite{MacLane1997} (Mathematics)}
 
@@ -67,6 +71,47 @@ Now if there are instances and schemas of sysmers, then there are most likely al
 
 \section{Cognitive Architectures (Cognitive Science)}
 What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle. — Marvin Minsky. \footcite[308]{Minsky1988}
+
+\[
+	\resizebox{1.25\textwidth}{!}{
+	\begin{tikzcd}[ampersand replacement=\&,sep=normal, cells={nodes={draw, minimum width=1cm, minimum height=0.5cm, anchor=center}}]
+	\&\&\&\&\&\& Self \\
+	\\
+	\&\&\&\&\&\& Intellect \\
+	\\
+	\&\&\&\&\&\& {Slow Mind} \\
+	\&\&\&\&\&\& Ego \\
+	Nature \&\& Object \&\& Body \&\&\&\& Soul \&\& Subject \&\& Culture \\
+	\&\&\&\&\&\& Socio \\
+	\&\&\&\&\&\& {Fast Mind} \\
+	\\
+	\&\&\&\&\&\& Life \\
+	\\
+	\&\&\&\&\&\& Death
+	\arrow["Motivatio", from=1-7, to=7-11]
+	\arrow["Decisio"{description}, from=3-7, to=1-7]
+	\arrow["Cognitio"{description}, from=5-7, to=3-7]
+	\arrow["Emotio", from=5-7, to=7-9]
+	\arrow["Emotio"{description}, from=6-7, to=7-9]
+	\arrow["Vinculum"{description}, tail reversed, from=6-7, to=8-7]
+	\arrow["Emergentio", from=7-1, to=7-3]
+	\arrow["Observatio", squiggly, from=7-3, to=1-7]
+	\arrow["Sensatio", from=7-3, to=7-5]
+	\arrow["Preservatio"', squiggly, from=7-3, to=13-7]
+	\arrow["Interpratatio", from=7-5, to=5-7]
+	\arrow["Conditio"{description}, from=7-5, to=6-7]
+	\arrow["Intuitio"', from=7-5, to=9-7]
+	\arrow["Motivatio", from=7-9, to=7-11]
+	\arrow["Expressio"{description}, from=7-9, to=8-7]
+	\arrow["Creatio", from=7-11, to=7-13]
+	\arrow["{{Sensatio`}}"{description}, from=8-7, to=7-5]
+	\arrow["Emotio"', from=9-7, to=7-9]
+	\arrow["Memorizatio"{description}, from=9-7, to=11-7]
+	\arrow["Instictio"{description}, from=11-7, to=13-7]
+	\arrow["Motivatio"', from=13-7, to=7-11]
+\end{tikzcd}
+}
+\]
 
 \section{Ontologies (AI)}
 
