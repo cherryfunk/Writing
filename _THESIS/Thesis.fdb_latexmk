@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Thesis"] 1716980435 "Thesis.bcf" "Thesis.bbl" "Thesis" 1716980442 0
+["biber Thesis"] 1716980435 "Thesis.bcf" "Thesis.bbl" "Thesis" 1716988337 0
   "./references.bib" 1715344490 2784 333016cc67a9a12ec128ddfc7e3a1f1e ""
-  "Thesis.bcf" 1716980442 108811 8912aabe94b16cbb31ff23cd7fa28e60 "pdflatex"
+  "Thesis.bcf" 1716988336 108811 8912aabe94b16cbb31ff23cd7fa28e60 "pdflatex"
   (generated)
   "Thesis.bbl"
   "Thesis.blg"
   (rewritten before read)
-["pdflatex"] 1716980441 "/home/danie/Git/Writing/_THESIS/Thesis.tex" "Thesis.pdf" "Thesis" 1716980442 0
-  "/home/danie/Git/Writing/_THESIS/Thesis.tex" 1716980440 5502 f6273499e05079300b09fdf0dc2c5f5a ""
+["pdflatex"] 1716988336 "/home/danie/Git/Writing/_THESIS/Thesis.tex" "Thesis.pdf" "Thesis" 1716988337 0
+  "/home/danie/Git/Writing/_THESIS/Thesis.tex" 1716988333 5501 0c9f976b0d695dbbfbf6d3c2aed8d152 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecbx0600.tfm" 1136768653 3584 ad9fcbc26a2a7bccd6d08b0a5792fbe0 ""
@@ -107,10 +107,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700145161 4714027 87618d7f896f286b6b7c4cf67f54d550 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700145201 8213594 fc64d402fed6712eca9642543084a617 ""
   "/usr/local/texlive/2023/texmf.cnf" 1700145153 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Thesis.aux" 1716980442 4177 a61abf48639ed4190249bec365cfde57 "pdflatex"
+  "Thesis.aux" 1716988336 4177 a61abf48639ed4190249bec365cfde57 "pdflatex"
   "Thesis.bbl" 1716980436 9750 d30d7951fbb5be27f8e0090e374414a1 "biber Thesis"
-  "Thesis.run.xml" 1716980442 2329 a1971d4651dfec5bad0a43e84f94e7e2 "pdflatex"
-  "Thesis.tex" 1716980440 5502 f6273499e05079300b09fdf0dc2c5f5a ""
+  "Thesis.run.xml" 1716988336 2329 a1971d4651dfec5bad0a43e84f94e7e2 "pdflatex"
+  "Thesis.tex" 1716988333 5501 0c9f976b0d695dbbfbf6d3c2aed8d152 ""
   (generated)
   "Thesis.aux"
   "Thesis.bcf"
