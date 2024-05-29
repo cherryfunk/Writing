@@ -1,0 +1,249 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{array}
+\renewcommand{\arraystretch}{1.4}
+\usepackage{tikz}
+\usepackage{quiver}
+\usepackage{tikz-cd}
+\usepackage{amsmath}
+\usepackage{ amssymb}
+\usepackage{stmaryrd}
+\usetikzlibrary{positioning, shapes.geometric, ,shapes.arrows, arrows.meta}
+
+\newcommand{\filledarrow}[1][]{\mathrel{\tikz{
+    \node[fill, minimum width=.5ex, minimum height=.9em, inner sep=0pt, single arrow, single arrow head extend=1.5pt, single arrow tip angle=60]
+        (A){\raisebox{3.5pt}[0pt][0pt]{$\,\scriptstyle #1\ $}}; \path([xshift=-.4pt]A.west)--(A.east);}}}
+\newcommand{\filledarrowleft}[1][]{\mathrel{\tikz{
+    \node[fill, minimum width=.5ex, minimum height=.9em, inner sep=0pt, single arrow, single arrow head extend=1.5pt, single arrow tip angle=60, shape border rotate=180]
+        (A){\raisebox{3.5pt}[0pt][0pt]{$\ \scriptstyle #1\,$}}; \path(A.west)--([xshift=.4pt]A.east);}}}
+
+\tikzset{
+    x0-11/.style={
+        0x-1
+    },
+    x1-11/.style={
+        1x-1
+    },
+    10-11/.style={
+        01-1
+    },    
+}
+
+
+\makeatletter
+
+\pgfarrowsdeclare{1x}{1x}
+{
+    \pgfarrowsleftextend{+-.5\pgflinewidth}%
+    \pgfarrowsrightextend{+.5\pgflinewidth}%
+}
+{
+    \pgfutil@tempdima=0.6pt%
+    %\advance\pgfutil@tempdima by.25\pgflinewidth%
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    \pgfpathmoveto{\pgfqpoint{0pt}{-9\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{-13\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{9\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-8pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-8pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-8pt}{6pt}}% 
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{0x}{0x}
+{
+    \pgfarrowsleftextend{+-.5\pgflinewidth}%
+    \pgfarrowsrightextend{+.5\pgflinewidth}%
+}
+{
+    \pgfutil@tempdima=0.6pt%
+    %\advance\pgfutil@tempdima by.25\pgflinewidth%
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    \pgfpathmoveto{\pgfqpoint{0pt}{-9\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{-13\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{9\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%  
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-6pt}{-6pt}}% 
+    \pgfpathcircle{\pgfpoint{-11.5pt}{0}} {3.5pt}
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{01}{01}
+{
+    \pgfarrowsleftextend{+-.5\pgflinewidth}%
+    \pgfarrowsrightextend{+.5\pgflinewidth}%
+}
+{
+    \pgfutil@tempdima=0.6pt%
+    %\advance\pgfutil@tempdima by.25\pgflinewidth%
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+     \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-6pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-6pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-6pt}{6pt}}% 
+    \pgfpathcircle{\pgfpoint{-11.5pt}{0}} {3.5pt}
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{1}{1}
+{
+    \pgfarrowsleftextend{+-.5\pgflinewidth}%
+    \pgfarrowsrightextend{+.5\pgflinewidth}%
+}
+{
+    \pgfutil@tempdima=0.6pt%
+    %\advance\pgfutil@tempdima by.25\pgflinewidth%
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-6pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-6pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-6pt}{6pt}}% 
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-8pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-8pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-8pt}{6pt}}%    
+    \pgfusepathqstroke%
+}
+
+
+\pgfarrowsdeclare{filled}{filled}
+{
+    \pgfarrowsleftextend{0pt}
+    \pgfarrowsrightextend{+3.3\pgfutil@tempdima}%
+}
+{
+    \pgfutil@tempdima=0.6pt% % Adjust the size here for smaller arrowhead
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{5.5\pgfutil@tempdima}{0pt}}% % Reversed direction
+    \pgfpathlineto{\pgfqpoint{0pt}{3.5\pgfutil@tempdima}}%
+    \pgfpathclose%
+    \pgfusepathqfillstroke%
+}
+
+\begin{document}
+
+\section{Notation Versions}  
+\begin{tabular}{lcc}
+    \toprule
+    Notation & IEM & Math \\
+    \midrule
+    $x1-11$      & \tikz{\draw[x1-11] (0,0) -- ++(1.5,0);}      & surjective    \\ 
+    $x0-11$      & \tikz{\draw[x0-11] (0,0) -- ++(1.5,0);}      & mapping       \\ 
+    $11-11$       & \tikz{\draw[1-1] (0,0) -- ++(1.5,0);}        & bijective     \\
+    $10-1$      & \tikz{\draw[01-1] (0,0) -- ++(1.5,0);}       & injective     \\
+    \bottomrule
+\end{tabular}
+
+\begin{equation*}
+    \begin{tikzcd}[ampersand replacement=\&,sep=normal, cells={nodes={draw, minimum width=1cm, minimum height=0.5cm, anchor=center}}]
+        \&\&\&\&\&\&\& Self \\
+        \\
+        \&\&\&\&\&\&\& Intellect \\
+        \\
+        \&\&\&\&\&\&\& {Slow Mind} \\
+        \\
+        \&\&\&\&\&\&\& Ego \\
+        Nature \&\& Object \&\& Body \&\&\&\&\&\& Soul \&\& Subject \&\& Culture \\
+        \&\&\&\&\&\&\& Socio \\
+        \\
+        \&\&\&\&\&\&\& {Fast Mind} \\
+        \\
+        \&\&\&\&\&\&\& Life \\
+        \\
+        \&\&\&\&\&\&\& Death
+        \arrow["Motivatio", 11-11, from=1-8, to=8-13]
+        \arrow["Decisio"{description}, from=3-8, to=1-8]
+        \arrow["Cognitio"{description}, from=5-8, to=3-8]
+        \arrow["Emotio", from=5-8, to=8-11]
+        \arrow["Emotio"{description}, from=7-8, to=8-11]
+        \arrow["Vinculum"{description}, tail reversed, from=7-8, to=9-8]
+        \arrow["Emergentio", -filled, from=8-1, to=8-3]
+        \arrow["Observatio", squiggly, from=8-3, to=1-8]
+        \arrow["Sensatio", -filled, from=8-3, to=8-5]
+        \arrow["Preservatio"', squiggly, from=8-3, to=15-8]
+        \arrow["Interpratatio", 11-11, from=8-5, to=5-8]
+        \arrow["Conditio"{description}, from=8-5, to=7-8]
+        \arrow["Intuitio"', from=8-5, to=11-8]
+        \arrow["Motivatio", from=8-11, to=8-13]
+        \arrow["Expressio"{description}, from=8-11, to=9-8]
+        \arrow["Creatio", from=8-13, to=8-15]
+        \arrow["{Sensatio`}"{description}, from=9-8, to=8-5]
+        \arrow["Emotio"', from=11-8, to=8-11]
+        \arrow["Memorizatio"{description}, from=11-8, to=13-8]
+        \arrow["Instictio"{description}, from=13-8, to=15-8]
+        \arrow["Motivatio"', from=15-8, to=8-13]
+    \end{tikzcd}
+\end{equation*}
+
+\newpage
+
+% Arrow 1
+\[
+\rightarrow
+\]
+
+% Arrow 2
+\[
+\twoheadrightarrow
+\]
+
+% Arrow 3
+\[
+    \hookrightarrow
+\]
+
+% Arrow 4
+\[
+    \leftrightarrow
+\]
+
+% Arrow 5
+\[
+    \rightarrowtriangle
+\]
+
+% Arrow 6
+\[
+    \filledarrow
+\]
+
+% Arrow 7
+\[
+\hookleftarrow
+\]
+
+% Arrow 8
+\[
+\looparrowright
+\]
+
+% Arrow 9
+\[
+\looparrowleft
+\]
+
+% Arrow 10
+\[
+\looparrowleft \text{ (alternative)}
+\]
+
+% Arrow 11
+\[
+\looparrowleft \text{ (alternative)}
+\]
+
+% Arrow 12
+\[
+\rightarrow
+\]
+
+
+\end{document}
