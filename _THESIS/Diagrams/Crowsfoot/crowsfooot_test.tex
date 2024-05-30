@@ -3,6 +3,7 @@
 \usepackage{array}
 \renewcommand{\arraystretch}{1.4}
 \usepackage{tikz}
+\usepackage{booktabs}
 \usepackage{quiver}
 \usepackage{tikz-cd}
 \usepackage{amsmath}
@@ -17,42 +18,22 @@
     \node[fill, minimum width=.5ex, minimum height=.9em, inner sep=0pt, single arrow, single arrow head extend=1.5pt, single arrow tip angle=60, shape border rotate=180]
         (A){\raisebox{3.5pt}[0pt][0pt]{$\ \scriptstyle #1\,$}}; \path(A.west)--([xshift=.4pt]A.east);}}}
 
-\tikzset{
-    x0-11/.style={
-        0x-1
-    },
-    x1-11/.style={
-        1x-1
-    },
-    10-11/.style={
-        01-1
-    },    
-}
+%optional argument for the label
+%\tikzset{
+%    x0-11/.style={
+%        0x-1
+%    },
+%    x1-11/.style={
+%        1x-1
+%    },
+%    10-11/.style={
+%        01-1
+%    },    
+%}
 
 
 \makeatletter
-
-\pgfarrowsdeclare{1x}{1x}
-{
-    \pgfarrowsleftextend{+-.5\pgflinewidth}%
-    \pgfarrowsrightextend{+.5\pgflinewidth}%
-}
-{
-    \pgfutil@tempdima=0.6pt%
-    %\advance\pgfutil@tempdima by.25\pgflinewidth%
-    \pgfsetdash{}{+0pt}%
-    \pgfsetmiterjoin%
-    \pgfpathmoveto{\pgfqpoint{0pt}{-9\pgfutil@tempdima}}%
-    \pgfpathlineto{\pgfqpoint{-13\pgfutil@tempdima}{0pt}}%
-    \pgfpathlineto{\pgfqpoint{0pt}{9\pgfutil@tempdima}}%
-    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
-    \pgfpathmoveto{\pgfqpoint{-8pt}{-6pt}}% 
-    \pgfpathlineto{\pgfqpoint{-8pt}{-6pt}}%  
-    \pgfpathlineto{\pgfqpoint{-8pt}{6pt}}% 
-    \pgfusepathqstroke%
-}
-
-\pgfarrowsdeclare{0x}{0x}
+\pgfarrowsdeclare{m}{m}
 {
     \pgfarrowsleftextend{+-.5\pgflinewidth}%
     \pgfarrowsrightextend{+.5\pgflinewidth}%
@@ -72,7 +53,9 @@
     \pgfusepathqstroke%
 }
 
-\pgfarrowsdeclare{01}{01}
+
+
+\pgfarrowsdeclare{n}{n}
 {
     \pgfarrowsleftextend{+-.5\pgflinewidth}%
     \pgfarrowsrightextend{+.5\pgflinewidth}%
@@ -82,13 +65,16 @@
     %\advance\pgfutil@tempdima by.25\pgflinewidth%
     \pgfsetdash{}{+0pt}%
     \pgfsetmiterjoin%
-     \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
-    \pgfpathmoveto{\pgfqpoint{-6pt}{-6pt}}% 
-    \pgfpathlineto{\pgfqpoint{-6pt}{-6pt}}%  
-    \pgfpathlineto{\pgfqpoint{-6pt}{6pt}}% 
-    \pgfpathcircle{\pgfpoint{-11.5pt}{0}} {3.5pt}
+    \pgfpathmoveto{\pgfqpoint{0pt}{-9\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{-13\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{9\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-8pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-8pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-8pt}{6pt}}% 
     \pgfusepathqstroke%
 }
+
 
 \pgfarrowsdeclare{1}{1}
 {
@@ -111,14 +97,89 @@
     \pgfusepathqstroke%
 }
 
+\pgfarrowsdeclare{e}{e}
+{
+    \pgfarrowsleftextend{+-.5\pgflinewidth}%
+    \pgfarrowsrightextend{+.5\pgflinewidth}%
+}
+{
+    \pgfutil@tempdima=0.6pt%
+    %\advance\pgfutil@tempdima by.25\pgflinewidth%
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+     \pgfpathmoveto{\pgfqpoint{0\pgfutil@tempdima}{0\pgfutil@tempdima}}%
+    \pgfpathmoveto{\pgfqpoint{-6pt}{-6pt}}% 
+    \pgfpathlineto{\pgfqpoint{-6pt}{-6pt}}%  
+    \pgfpathlineto{\pgfqpoint{-6pt}{6pt}}% 
+    \pgfpathcircle{\pgfpoint{-11.5pt}{0}} {3.5pt}
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{triangle}{triangle}
+{
+    \pgfarrowsleftextend{0pt}
+    \pgfarrowsrightextend{+4.5\pgfutil@tempdima}%
+}
+{
+    \pgfutil@tempdima=0.8pt% % Adjust the size here for smaller arrowhead
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{5.5\pgfutil@tempdima}{0pt}}% % Reversed direction
+    \pgfpathlineto{\pgfqpoint{0pt}{3.5\pgfutil@tempdima}}%
+    \pgfpathclose%
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{ltriangle}{ltriangle}
+{
+    \pgfarrowsleftextend{-2\pgfutil@tempdima}%
+    \pgfarrowsrightextend{+6\pgfutil@tempdima}%
+}
+{
+    \pgfutil@tempdima=0.8pt % Adjust the size here for smaller arrowhead
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    % Draw vertical line part
+    \pgfpathmoveto{\pgfqpoint{-2.5\pgfutil@tempdima}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{-2.5\pgfutil@tempdima}{3.5\pgfutil@tempdima}}%
+    \pgfusepathqstroke%
+    % Draw triangle part
+    \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{5.5\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{3.5\pgfutil@tempdima}}%
+    \pgfpathclose%
+    \pgfusepathqstroke%
+}
+
+\pgfarrowsdeclare{ptriangle}{ptriangle}
+{
+    \pgfarrowsleftextend{-2\pgfutil@tempdima}%
+    \pgfarrowsrightextend{+6\pgfutil@tempdima}%
+}
+{
+    \pgfutil@tempdima=0.8pt % Adjust the size here for the dot size
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    % Draw dot part
+    \pgfpathcircle{\pgfqpoint{-3\pgfutil@tempdima}{0pt}}{1.3\pgfutil@tempdima}%
+    \pgfusepathqfillstroke%
+    % Draw triangle part
+    \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{5.5\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{3.5\pgfutil@tempdima}}%
+    \pgfpathclose%
+    \pgfusepathqstroke%
+}
+
 
 \pgfarrowsdeclare{filled}{filled}
 {
     \pgfarrowsleftextend{0pt}
-    \pgfarrowsrightextend{+3.3\pgfutil@tempdima}%
+    \pgfarrowsrightextend{+4.5\pgfutil@tempdima}%
 }
 {
-    \pgfutil@tempdima=0.6pt% % Adjust the size here for smaller arrowhead
+    \pgfutil@tempdima=0.8pt% % Adjust the size here for smaller arrowhead
     \pgfsetdash{}{+0pt}%
     \pgfsetmiterjoin%
     \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
@@ -128,19 +189,83 @@
     \pgfusepathqfillstroke%
 }
 
+
+\pgfarrowsdeclare{hat}{hat}
+{
+    \pgfarrowsleftextend{0pt}%
+    \pgfarrowsrightextend{+5.5\pgfutil@tempdima}%
+}
+{
+    \pgfutil@tempdima=0.8pt % Adjust the size here for the arrowhead size
+    \pgfsetdash{}{+0pt}%
+    \pgfsetmiterjoin%
+    % Draw the hat part
+    \pgfpathmoveto{\pgfqpoint{0pt}{-3.5\pgfutil@tempdima}}%
+    \pgfpathlineto{\pgfqpoint{5.5\pgfutil@tempdima}{0pt}}%
+    \pgfpathlineto{\pgfqpoint{0pt}{3.5\pgfutil@tempdima}}%
+    \pgfusepathqstroke%
+}
+\makeatother
+
 \begin{document}
 
 \section{Notation Versions}  
-\begin{tabular}{lcc}
+
+\begin{tabular}{lccccccc}
     \toprule
-    Notation & IEM & Math \\
+    Variable & Interval & IEM head & $[restrain_1]\colon$ & Arrow & $\colon[restrain_1]$ & Arrow end\\
     \midrule
-    $x1-11$      & \tikz{\draw[x1-11] (0,0) -- ++(1.5,0);}      & surjective    \\ 
-    $x0-11$      & \tikz{\draw[x0-11] (0,0) -- ++(1.5,0);}      & mapping       \\ 
-    $11-11$       & \tikz{\draw[1-1] (0,0) -- ++(1.5,0);}        & bijective     \\
-    $10-1$      & \tikz{\draw[01-1] (0,0) -- ++(1.5,0);}       & injective     \\
+    $m$           & $[0, \infty)$ & \tikz{\draw[-m] (0,0) -- ++(0.75,0);} & normal &         \tikz{\draw[-hat] (0,0) -- ++(0.1932,0);}& power-set & \tikz{\draw[-triangle] (0,0) -- ++(0.4,0);}\\ 
+    $n$           & $[1, \infty)$ & \tikz{\draw[-n] (0,0) -- ++(0.75,0);} & surjective &     \tikz{\draw[-triangle] (0,0) -- ++(0.16,0);} $\ or \ $\tikz{\draw[-filled] (0,0) -- ++(0.1,0);} & non-empty & \tikz{\draw[-ltriangle] (0,0) -- ++(0.5,0);}\\ 
+    $1$           & $[1, 1]$ & \tikz{\draw[-1] (0,0) -- ++(0.75,0);} & bijective &          0 & functional & \tikz{\draw[-hat] (0,0) -- ++(0.5,0);}\\ 
+    $\varepsilon$ & $[0, 1]$ & \tikz{\draw[-e] (0,0) -- ++(0.75,0);} & injective &          0 & partial & \tikz{\draw[-ptriangle] (0,0) -- ++(0.5,0);}\\ 
     \bottomrule
 \end{tabular}
+
+
+\begin{tabular}{lccccccc}
+    \toprule
+    Variable & Interval & IEM head & $[restrain_1]\colon$ & Arrow & $\colon[restrain_1]$ & Arrow end\\
+    \midrule
+    $m$           & $[0, \infty)$ & \tikz{\draw[-m] (0,0) -- ++(0.75,0);} & normal &        \tikz{\draw[-triangle] (0,0) -- ++(0.16,0);} $\ or \ $ \tikz{\path[draw=none, -hat] (0,0) -- ++(0,0);}& power-set & \tikz{\draw[-triangle] (0,0) -- ++(0.4,0);}\\ 
+    $n$           & $[1, \infty)$ & \tikz{\draw[-n] (0,0) -- ++(0.75,0);} & surjective &     \tikz{\draw[-filled] (0,0) -- ++(0.1,0);} & non-empty & \tikz{\draw[-ltriangle] (0,0) -- ++(0.5,0);}\\ 
+    $1$           & $[1, 1]$ & \tikz{\draw[-1] (0,0) -- ++(0.75,0);} & bijective &          0 & functional & \tikz{\draw[-hat] (0,0) -- ++(0.5,0);}\\ 
+    $\varepsilon$ & $[0, 1]$ & \tikz{\draw[-e] (0,0) -- ++(0.75,0);} & injective &          0 & partial & \tikz{\draw[-ptriangle] (0,0) -- ++(0.5,0);}\\ 
+    \bottomrule
+\end{tabular}
+
+
+\hspace{1cm}
+
+\begin{tabular}{lccc}
+    \toprule
+    Notation & IEM & $[restrain_1]\colon$ & $\colon[restrain_1]$\\
+    \midrule
+    $m:m$ & \tikz{\draw[m-m] (0,0) -- ++(1.5,0);} & normal & power-set      \\ 
+    $n:m$ & \tikz{\draw[n-m] (0,0) -- ++(1.5,0);} & surjective & power-set     \\ 
+    $1:m$ & \tikz{\draw[1-m] (0,0) -- ++(1.5,0);} & bijective & power-set        \\ 
+    $\varepsilon:m$ & \tikz{\draw[e-m] (0,0) -- ++(1.5,0);} & injective & power-set       \\ 
+    $m:n$ & \tikz{\draw[m-n] (0,0) -- ++(1.5,0);} & normal & non-empty          \\ 
+    $n:n$ & \tikz{\draw[n-n] (0,0) -- ++(1.5,0);} & surjective & non-empty       \\ 
+    $1:n$ & \tikz{\draw[1-n] (0,0) -- ++(1.5,0);} & bijective & non-empty        \\ 
+    $\varepsilon:n$ & \tikz{\draw[e-n] (0,0) -- ++(1.5,0);} & injective & non-empty        \\ 
+    $m:1$ & \tikz{\draw[m-1] (0,0) -- ++(1.5,0);} & normal & functional         \\
+    $n:1$ & \tikz{\draw[n-1] (0,0) -- ++(1.5,0);} & surjective & functional     \\
+    $1:1$ & \tikz{\draw[1-1] (0,0) -- ++(1.5,0);} & bijective & functional       \\ 
+    $\varepsilon:1$ & \tikz{\draw[e-1] (0,0) -- ++(1.5,0);} & injective & functional    \\ 
+    $m:\varepsilon$ & \tikz{\draw[m-e] (0,0) -- ++(1.5,0);} & normal & partial        \\
+    $n:\varepsilon$ & \tikz{\draw[n-e] (0,0) -- ++(1.5,0);} & surjective & partial     \\
+    $1:\varepsilon$ & \tikz{\draw[1-e] (0,0) -- ++(1.5,0);} & bijective & partial       \\ 
+    $\varepsilon:\varepsilon$ & \tikz{\draw[e-e] (0,0) -- ++(1.5,0);} & injective & partial     \\ 
+    \bottomrule
+\end{tabular}
+
+
+
+
+
+
+
 
 \begin{equation*}
     \begin{tikzcd}[ampersand replacement=\&,sep=normal, cells={nodes={draw, minimum width=1cm, minimum height=0.5cm, anchor=center}}]
