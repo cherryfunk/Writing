@@ -1,7 +1,6 @@
 \documentclass{article}
 \usepackage{booktabs}
 \usepackage{array}
-\renewcommand{\arraystretch}{1.4}
 \usepackage{tikz}
 \usepackage{booktabs}
 \usepackage{quiver}
@@ -10,13 +9,6 @@
 \usepackage{ amssymb}
 \usepackage{stmaryrd}
 \usetikzlibrary{positioning, shapes.geometric, ,shapes.arrows, arrows.meta}
-
-\newcommand{\filledarrow}[1][]{\mathrel{\tikz{
-    \node[fill, minimum width=.5ex, minimum height=.9em, inner sep=0pt, single arrow, single arrow head extend=1.5pt, single arrow tip angle=60]
-        (A){\raisebox{3.5pt}[0pt][0pt]{$\,\scriptstyle #1\ $}}; \path([xshift=-.4pt]A.west)--(A.east);}}}
-\newcommand{\filledarrowleft}[1][]{\mathrel{\tikz{
-    \node[fill, minimum width=.5ex, minimum height=.9em, inner sep=0pt, single arrow, single arrow head extend=1.5pt, single arrow tip angle=60, shape border rotate=180]
-        (A){\raisebox{3.5pt}[0pt][0pt]{$\ \scriptstyle #1\,$}}; \path(A.west)--([xshift=.4pt]A.east);}}}
 
 %optional argument for the label
 %\tikzset{
@@ -223,18 +215,6 @@
 \end{tabular}
 
 
-\begin{tabular}{lccccccc}
-    \toprule
-    Variable & Interval & IEM head & $[restrain_1]\colon$ & Arrow & $\colon[restrain_1]$ & Arrow end\\
-    \midrule
-    $m$           & $[0, \infty)$ & \tikz{\draw[-m] (0,0) -- ++(0.75,0);} & normal &        \tikz{\draw[-triangle] (0,0) -- ++(0.16,0);} $\ or \ $ \tikz{\path[draw=none, -hat] (0,0) -- ++(0,0);}& power-set & \tikz{\draw[-triangle] (0,0) -- ++(0.4,0);}\\ 
-    $n$           & $[1, \infty)$ & \tikz{\draw[-n] (0,0) -- ++(0.75,0);} & surjective &     \tikz{\draw[-filled] (0,0) -- ++(0.1,0);} & non-empty & \tikz{\draw[-ltriangle] (0,0) -- ++(0.5,0);}\\ 
-    $1$           & $[1, 1]$ & \tikz{\draw[-1] (0,0) -- ++(0.75,0);} & bijective &          0 & functional & \tikz{\draw[-hat] (0,0) -- ++(0.5,0);}\\ 
-    $\varepsilon$ & $[0, 1]$ & \tikz{\draw[-e] (0,0) -- ++(0.75,0);} & injective &          0 & partial & \tikz{\draw[-ptriangle] (0,0) -- ++(0.5,0);}\\ 
-    \bottomrule
-\end{tabular}
-
-
 \hspace{1cm}
 
 \begin{tabular}{lccc}
@@ -335,10 +315,6 @@
     \rightarrowtriangle
 \]
 
-% Arrow 6
-\[
-    \filledarrow
-\]
 
 % Arrow 7
 \[
