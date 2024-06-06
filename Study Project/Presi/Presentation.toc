@@ -1,0 +1,20 @@
+\babel@toc {nil}{}\relax 
+\beamer@sectionintoc {1}{The Intelligence of Köhler}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition of Intelligence}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Characteristics of Intelligent Behavior}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Distinguishing Genuine Intelligence from Chance}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{Role of Insight in Problem-Solving}{7}{0}{1}
+\beamer@subsectionintoc {1}{5}{Thorndike's Experiments on Animal Intelligence}{8}{0}{1}
+\beamer@subsectionintoc {1}{6}{Critique of Thorndike's Methodology}{9}{0}{1}
+\beamer@subsectionintoc {1}{7}{Conclusion on Animal Intelligence}{10}{0}{1}
+\beamer@sectionintoc {2}{Reflection on his Intelligence}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Introduction}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Animal Intelligence and Adaptation}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{Falcon Intelligence}{14}{0}{2}
+\beamer@subsectionintoc {2}{4}{Cultural Perspectives on Intelligence}{15}{0}{2}
+\beamer@subsectionintoc {2}{5}{Indigenous Perspectives on Intelligence}{16}{0}{2}
+\beamer@subsectionintoc {2}{6}{Reevaluating Intelligence}{17}{0}{2}
+\beamer@subsectionintoc {2}{7}{Defining Intelligence}{18}{0}{2}
+\beamer@subsectionintoc {2}{8}{Conclusion}{19}{0}{2}
+\beamer@sectionintoc {3}{Discussion on our Intelligence}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Where is Intelligence?}{21}{0}{3}
