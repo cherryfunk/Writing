@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex Presentation"] 1717669210 "Presentation.aux" "Presentation.bbl" "Presentation" 1717669212 0
-  "./Presentation-blx.bib" 1717669212 342 009e15ddfb9c7d1acd2306fd002f143a ""
+["bibtex Presentation"] 1717669488 "Presentation.aux" "Presentation.bbl" "Presentation" 1717669493 0
+  "./Presentation-blx.bib" 1717669492 342 009e15ddfb9c7d1acd2306fd002f143a ""
   "./references.bib" 1717667306 1523 1a3e948e5c71372a7223af67ee8f31c3 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "Presentation.aux" 1717669212 11711 d4b5393a90f50be81b737b5334636329 "pdflatex"
+  "Presentation.aux" 1717669492 11711 d4b5393a90f50be81b737b5334636329 "pdflatex"
   (generated)
   "Presentation.bbl"
   "Presentation.blg"
   (rewritten before read)
-["pdflatex"] 1717669210 "/home/danie/Git/Writing/Study Project/Presi/Presentation.tex" "Presentation.pdf" "Presentation" 1717669212 0
-  "/home/danie/Git/Writing/Study Project/Presi/Presentation.tex" 1717669207 12128 6c666203cba808f337c440b151b62a63 ""
+["pdflatex"] 1717669490 "/home/danie/Git/Writing/Study Project/Presi/Presentation.tex" "Presentation.pdf" "Presentation" 1717669493 0
+  "/home/danie/Git/Writing/Study Project/Presi/Presentation.tex" 1717669490 12128 6c666203cba808f337c440b151b62a63 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcss1000.tfm" 1136768653 1536 293044035fd171bb1d18cf655049b101 ""
@@ -255,13 +255,13 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700145161 4714027 87618d7f896f286b6b7c4cf67f54d550 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700145201 8213594 fc64d402fed6712eca9642543084a617 ""
   "/usr/local/texlive/2023/texmf.cnf" 1700145153 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Presentation.aux" 1717669212 11711 d4b5393a90f50be81b737b5334636329 "pdflatex"
-  "Presentation.bbl" 1717669210 6484 63e144efa86afd53346ee1bdd8c04cac "bibtex Presentation"
-  "Presentation.nav" 1717669212 5672 daa472da8bb93d71c5d7f59267efd428 "pdflatex"
-  "Presentation.out" 1717669212 4121 7f9528193d3644e38f0ee72b0521a4b7 "pdflatex"
-  "Presentation.run.xml" 1717669212 2566 d8943e085f7ad6fc55de245f75bed91d "pdflatex"
-  "Presentation.tex" 1717669207 12128 6c666203cba808f337c440b151b62a63 ""
-  "Presentation.toc" 1717669212 1384 0e17ab0513de18950611d6e1d02efca1 "pdflatex"
+  "Presentation.aux" 1717669492 11711 d4b5393a90f50be81b737b5334636329 "pdflatex"
+  "Presentation.bbl" 1717669488 6484 63e144efa86afd53346ee1bdd8c04cac "bibtex Presentation"
+  "Presentation.nav" 1717669492 5672 daa472da8bb93d71c5d7f59267efd428 "pdflatex"
+  "Presentation.out" 1717669492 4121 7f9528193d3644e38f0ee72b0521a4b7 "pdflatex"
+  "Presentation.run.xml" 1717669492 2566 d8943e085f7ad6fc55de245f75bed91d "pdflatex"
+  "Presentation.tex" 1717669490 12128 6c666203cba808f337c440b151b62a63 ""
+  "Presentation.toc" 1717669492 1384 0e17ab0513de18950611d6e1d02efca1 "pdflatex"
   "R-removebg-preview.png" 1717660780 87635 0a3cb266a4ad75b4a4d9ee878644ae28 ""
   (generated)
   "Presentation-blx.bib"
