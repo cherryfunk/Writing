@@ -65,7 +65,7 @@
     \field{year}{1996}
   \endentry
 
-  \entry{emery2004cognitive}{article}{}
+  \entry{emery2004cognitive}{book}{}
     \name{author}{2}{}{%
       {{hash=ENJ}{%
          family={Emery},
@@ -117,7 +117,7 @@
     \field{year}{1983}
   \endentry
 
-  \entry{holling2001understanding}{article}{}
+  \entry{holling2001understanding}{book}{}
     \name{author}{1}{}{%
       {{hash=HCS}{%
          family={Holling},
@@ -187,7 +187,7 @@
     \field{year}{2003}
   \endentry
 
-  \entry{ratcliffe2007predation}{article}{}
+  \entry{ratcliffe2007predation}{book}{}
     \name{author}{1}{}{%
       {{hash=RJM}{%
          family={Ratcliffe},
@@ -208,7 +208,7 @@
     \field{year}{2007}
   \endentry
 
-  \entry{zuberbuhler2000cognitive}{article}{}
+  \entry{zuberbuhler2000cognitive}{book}{}
     \name{author}{1}{}{%
       {{hash=ZK}{%
          family={Zuberbühler},
