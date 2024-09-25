@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber paper"] 1727280044.75701 "paper.bcf" "paper.bbl" "paper" 1727280055.33481 0
-  "paper.bcf" 1727280054.951 109155 c4a1e7eaee875607bfab7e5d10664cb6 "xelatex"
+["biber paper"] 1727280837.97973 "paper.bcf" "paper.bbl" "paper" 1727280843.57247 0
+  "paper.bcf" 1727280843.16085 109153 d76d151e608b610b5ca9a2bb258639db "xelatex"
   "references.bib" 1727279964.71252 861 3e66a950a532e2d8a377326758ab546b ""
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["xdvipdfmx"] 1727280054.99014 "paper.xdv" "paper.pdf" "paper" 1727280055.33553 0
-  "paper.xdv" 1727280054.95174 122984 0f654354f5652b58faaeb3faccf8d5dc "xelatex"
+["xdvipdfmx"] 1727280843.19615 "paper.xdv" "paper.pdf" "paper" 1727280843.57327 0
+  "paper.xdv" 1727280843.16158 121688 50b00733ac8431af9f4f3f7ca81b64fe "xelatex"
   (generated)
   "paper.pdf"
   (rewritten before read)
-["xelatex"] 1727280054.08217 "/Users/cherryfunk/Applications/Repos/Writing/Study Project/Paper/paper.tex" "paper.xdv" "paper" 1727280055.33487 0
-  "/Users/cherryfunk/Applications/Repos/Writing/Study Project/Paper/paper.tex" 1727280053.87145 11933 b0507a45ed3b1122f2ac7b1cd021f6fe ""
+["xelatex"] 1727280842.3033 "/Users/cherryfunk/Applications/Repos/Writing/Study Project/Paper/paper.tex" "paper.xdv" "paper" 1727280843.57257 0
+  "/Users/cherryfunk/Applications/Repos/Writing/Study Project/Paper/paper.tex" 1727280836.80104 11931 45b708985259b9895e033f8bd8b080cf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -82,10 +82,10 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1726300891 10850173 74e74194147ee8833017c4b0b8107211 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "paper.aux" 1727280054.94933 2780 615d4c1832ce988152cf1ac08918c160 "xelatex"
-  "paper.bbl" 1727280047.24947 5564 bb802d5a5c15c7478968b7bcec8bc025 "biber paper"
-  "paper.run.xml" 1727280054.95166 2357 6b5fd49cf80ec116cdfbe085e75b5be7 "xelatex"
-  "paper.tex" 1727280053.87145 11933 b0507a45ed3b1122f2ac7b1cd021f6fe ""
+  "paper.aux" 1727280843.15918 2674 26f0e4b1b63f9e1fc1416e1e14a11dca "xelatex"
+  "paper.bbl" 1727280840.50815 4580 2ad878ee8e2e605454e69746136a2410 "biber paper"
+  "paper.run.xml" 1727280843.16149 2357 6b5fd49cf80ec116cdfbe085e75b5be7 "xelatex"
+  "paper.tex" 1727280836.80104 11931 45b708985259b9895e033f8bd8b080cf ""
   (generated)
   "paper.aux"
   "paper.bcf"

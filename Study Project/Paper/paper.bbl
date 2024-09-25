@@ -45,32 +45,6 @@
       \field{pages}{235\bibrangedash 254}
       \range{pages}{20}
     \endentry
-    \entry{koehler1917chimpanzees}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
-           family={Köhler},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Harcourt, Brace}%
-        {Company}%
-      }
-      \strng{namehash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \strng{fullhash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \strng{bibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \strng{authorbibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \strng{authornamehash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \strng{authorfullhash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \field{extraname}{2}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Mentality of Apes}
-      \field{year}{1917}
-    \endentry
     \entry{koehler1921mentality}{book}{}
       \name{author}{1}{}{%
         {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
@@ -88,7 +62,7 @@
       \strng{authorbibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
       \strng{authornamehash}{d37899350967fc98bb1adb5cdfe56fe1}
       \strng{authorfullhash}{d37899350967fc98bb1adb5cdfe56fe1}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
