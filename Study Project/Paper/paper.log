@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.14)  25 SEP 2024 18:14
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.14)  25 SEP 2024 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,7 +485,7 @@ Overfull \hbox (3.89348pt too wide) in paragraph at lines 46--47
 \TU/lmr/m/n/12 ior. The ability to solve these problems consistently—using insight and spatial awareness—
  []
 
-[3] [4] [5] (./paper.aux)
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] (./paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -495,12 +495,12 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10857 strings out of 474773
- 201531 string characters out of 5757724
- 1936839 words of memory out of 5000000
- 32905 multiletter control sequences out of 15000+600000
+ 11048 strings out of 474773
+ 207203 string characters out of 5757724
+ 1940839 words of memory out of 5000000
+ 33096 multiletter control sequences out of 15000+600000
  566038 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,8n,81p,1561b,4983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,8n,81p,2447b,4994s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on paper.xdv (5 pages, 121688 bytes).
+Output written on paper.xdv (15 pages, 420668 bytes).

@@ -19,6 +19,251 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{aristotle1986nicomachean}{book}{}
+      \name{author}{1}{}{%
+        {{hash=798a01f212a8e620a6940400717a56d9}{%
+           family={Aristotle},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=399b187da8263b30ff0f941bc1300ca7}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={J.A.K.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0552b8faeae4a96cd125e013569c606c}{%
+           family={Tredennick},
+           familyi={T\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{798a01f212a8e620a6940400717a56d9}
+      \strng{fullhash}{798a01f212a8e620a6940400717a56d9}
+      \strng{bibnamehash}{798a01f212a8e620a6940400717a56d9}
+      \strng{authorbibnamehash}{798a01f212a8e620a6940400717a56d9}
+      \strng{authornamehash}{798a01f212a8e620a6940400717a56d9}
+      \strng{authorfullhash}{798a01f212a8e620a6940400717a56d9}
+      \strng{translatorbibnamehash}{28aec4c909fef28b06f288f59fa58302}
+      \strng{translatornamehash}{28aec4c909fef28b06f288f59fa58302}
+      \strng{translatorfullhash}{28aec4c909fef28b06f288f59fa58302}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Nicomachean Ethics}
+      \field{year}{1986}
+    \endentry
+    \entry{berkes2012sacred}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a012301840aec73109b1090e27041078}{%
+           family={Berkes},
+           familyi={B\bibinitperiod},
+           given={Fikret},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a012301840aec73109b1090e27041078}
+      \strng{fullhash}{a012301840aec73109b1090e27041078}
+      \strng{bibnamehash}{a012301840aec73109b1090e27041078}
+      \strng{authorbibnamehash}{a012301840aec73109b1090e27041078}
+      \strng{authornamehash}{a012301840aec73109b1090e27041078}
+      \strng{authorfullhash}{a012301840aec73109b1090e27041078}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sacred Ecology}
+      \field{year}{2012}
+    \endentry
+    \entry{descartes1996discourse}{book}{}
+      \name{author}{1}{}{%
+        {{hash=85b53ab52ed6237af9a9154f7df898cd}{%
+           family={Descartes},
+           familyi={D\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{85b53ab52ed6237af9a9154f7df898cd}
+      \strng{fullhash}{85b53ab52ed6237af9a9154f7df898cd}
+      \strng{bibnamehash}{85b53ab52ed6237af9a9154f7df898cd}
+      \strng{authorbibnamehash}{85b53ab52ed6237af9a9154f7df898cd}
+      \strng{authornamehash}{85b53ab52ed6237af9a9154f7df898cd}
+      \strng{authorfullhash}{85b53ab52ed6237af9a9154f7df898cd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discourse on the Method}
+      \field{year}{1996}
+    \endentry
+    \entry{emery2004cognitive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=330341e47ca39e4e9c49bc4ea51f188c}{%
+           family={Emery},
+           familyi={E\bibinitperiod},
+           given={Nathan\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=97f09666394cdaaa0f1cb5491d815fa8}{%
+           family={Clayton},
+           familyi={C\bibinitperiod},
+           given={Nicola\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{427a975174173655fc3332a9066affce}
+      \strng{fullhash}{427a975174173655fc3332a9066affce}
+      \strng{bibnamehash}{427a975174173655fc3332a9066affce}
+      \strng{authorbibnamehash}{427a975174173655fc3332a9066affce}
+      \strng{authornamehash}{427a975174173655fc3332a9066affce}
+      \strng{authorfullhash}{427a975174173655fc3332a9066affce}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences}
+      \field{number}{1465}
+      \field{title}{Cognitive ornithology: The evolution of avian intelligence}
+      \field{volume}{361}
+      \field{year}{2004}
+      \field{pages}{23\bibrangedash 43}
+      \range{pages}{21}
+    \endentry
+    \entry{gardner1999intelligence}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bc46ca30f70d211044a9d851304b9471}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{fullhash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{bibnamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authorbibnamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authornamehash}{bc46ca30f70d211044a9d851304b9471}
+      \strng{authorfullhash}{bc46ca30f70d211044a9d851304b9471}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intelligence Reframed: Multiple Intelligences for the 21st Century}
+      \field{year}{1999}
+    \endentry
+    \entry{goleman1995emotional}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53c22f329efddf146bfdd7d8f7f930fc}{%
+           family={Goleman},
+           familyi={G\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Bantam Books}%
+      }
+      \strng{namehash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \strng{fullhash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \strng{bibnamehash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \strng{authorbibnamehash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \strng{authornamehash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \strng{authorfullhash}{53c22f329efddf146bfdd7d8f7f930fc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotional Intelligence}
+      \field{year}{1995}
+    \endentry
+    \entry{hunt2000crows}{article}{}
+      \name{author}{1}{}{%
+        {{hash=59d07acb4a1925d18e45b3a55bb78fbd}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Gavin\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CSIRO Publishing}%
+      }
+      \strng{namehash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \strng{fullhash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \strng{bibnamehash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \strng{authorbibnamehash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \strng{authornamehash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \strng{authorfullhash}{59d07acb4a1925d18e45b3a55bb78fbd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Emu - Austral Ornithology}
+      \field{number}{2}
+      \field{title}{Tool use by the New Caledonian crow Corvus moneduloides to obtain Cerambycidae from dead wood}
+      \field{volume}{100}
+      \field{year}{2000}
+      \field{pages}{109\bibrangedash 114}
+      \range{pages}{6}
+    \endentry
+    \entry{janik2006communication}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a720a90025c8fb48253439d1787df3c7}{%
+           family={Janik},
+           familyi={J\bibinitperiod},
+           given={Vincent\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7ac1120d26617d48d1bf6005970d04a6}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelimb J.\bibnamedelimi B.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \strng{fullhash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \strng{bibnamehash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \strng{authorbibnamehash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \strng{authornamehash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \strng{authorfullhash}{1eabae0ae2f89a0ba6cd73016ed07324}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{number}{1}
+      \field{title}{Communication in marine mammals}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{pages}{44\bibrangedash 50}
+      \range{pages}{7}
+    \endentry
     \entry{koehler1927detours}{article}{}
       \name{author}{1}{}{%
         {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
@@ -70,6 +315,33 @@
       \field{title}{The Mentality of Apes}
       \field{year}{1921}
     \endentry
+    \entry{lovelock2000gaia}{book}{}
+      \name{author}{1}{}{%
+        {{hash=54dde7e5abe663164037969f52b89dce}{%
+           family={Lovelock},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{54dde7e5abe663164037969f52b89dce}
+      \strng{fullhash}{54dde7e5abe663164037969f52b89dce}
+      \strng{bibnamehash}{54dde7e5abe663164037969f52b89dce}
+      \strng{authorbibnamehash}{54dde7e5abe663164037969f52b89dce}
+      \strng{authornamehash}{54dde7e5abe663164037969f52b89dce}
+      \strng{authorfullhash}{54dde7e5abe663164037969f52b89dce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gaia: A New Look at Life on Earth}
+      \field{year}{2000}
+    \endentry
     \entry{morgan1894animal}{article}{}
       \name{author}{1}{}{%
         {{hash=38e532fac00039b5ff3fd2bc71f8e464}{%
@@ -95,6 +367,87 @@
       \field{pages}{45\bibrangedash 59}
       \range{pages}{15}
     \endentry
+    \entry{nisbett2003geography}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cebc8f6c0b51384b5fb10d190293077c}{%
+           family={Nisbett},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Free Press}%
+      }
+      \strng{namehash}{cebc8f6c0b51384b5fb10d190293077c}
+      \strng{fullhash}{cebc8f6c0b51384b5fb10d190293077c}
+      \strng{bibnamehash}{cebc8f6c0b51384b5fb10d190293077c}
+      \strng{authorbibnamehash}{cebc8f6c0b51384b5fb10d190293077c}
+      \strng{authornamehash}{cebc8f6c0b51384b5fb10d190293077c}
+      \strng{authorfullhash}{cebc8f6c0b51384b5fb10d190293077c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Geography of Thought: How Asians and Westerners Think Differently... and Why}
+      \field{year}{2003}
+    \endentry
+    \entry{shettleworth2010cognition}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d81079ed57497f2200c31417c00c548}{%
+           family={Shettleworth},
+           familyi={S\bibinitperiod},
+           given={Sara\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4d81079ed57497f2200c31417c00c548}
+      \strng{fullhash}{4d81079ed57497f2200c31417c00c548}
+      \strng{bibnamehash}{4d81079ed57497f2200c31417c00c548}
+      \strng{authorbibnamehash}{4d81079ed57497f2200c31417c00c548}
+      \strng{authornamehash}{4d81079ed57497f2200c31417c00c548}
+      \strng{authorfullhash}{4d81079ed57497f2200c31417c00c548}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cognition, Evolution, and Behavior}
+      \field{year}{2010}
+    \endentry
+    \entry{sternberg2004wisdom}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7d3b82ab10c9f81462e04fa4ca523a77}{%
+           family={Sternberg},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \strng{fullhash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \strng{bibnamehash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \strng{authorbibnamehash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \strng{authornamehash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \strng{authorfullhash}{7d3b82ab10c9f81462e04fa4ca523a77}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wisdom, Intelligence, and Creativity Synthesized}
+      \field{year}{2004}
+    \endentry
     \entry{thorndike1898animal}{book}{}
       \name{author}{1}{}{%
         {{hash=3d6bff9febab561c42bb60701abd027b}{%
@@ -118,6 +471,124 @@
       \field{labeltitlesource}{title}
       \field{title}{Animal Intelligence}
       \field{year}{1898}
+    \endentry
+    \entry{tucker2000gliding}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ea7f91183702c2dc4d9ced363d10930a}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Vance\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Company of Biologists}%
+      }
+      \strng{namehash}{ea7f91183702c2dc4d9ced363d10930a}
+      \strng{fullhash}{ea7f91183702c2dc4d9ced363d10930a}
+      \strng{bibnamehash}{ea7f91183702c2dc4d9ced363d10930a}
+      \strng{authorbibnamehash}{ea7f91183702c2dc4d9ced363d10930a}
+      \strng{authornamehash}{ea7f91183702c2dc4d9ced363d10930a}
+      \strng{authorfullhash}{ea7f91183702c2dc4d9ced363d10930a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Biology}
+      \field{number}{3}
+      \field{title}{Gliding flight: speed and acceleration of ideal falcons during diving and pull out}
+      \field{volume}{203}
+      \field{year}{2000}
+      \field{pages}{373\bibrangedash 384}
+      \range{pages}{12}
+    \endentry
+    \entry{dewaal2016are}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3baae0a4f09a1fb87b4c199f87a40815}{%
+           family={Waal},
+           familyi={W\bibinitperiod},
+           given={Frans\bibnamedelimb B.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company}%
+      }
+      \strng{namehash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \strng{fullhash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \strng{bibnamehash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \strng{authorbibnamehash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \strng{authornamehash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \strng{authorfullhash}{3baae0a4f09a1fb87b4c199f87a40815}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Are We Smart Enough to Know How Smart Animals Are?}
+      \field{year}{2016}
+    \endentry
+    \entry{wilson2000sociobiology}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f82f8b7369928c5d458f85e2337ab04c}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Edward\bibnamedelima O.},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{f82f8b7369928c5d458f85e2337ab04c}
+      \strng{fullhash}{f82f8b7369928c5d458f85e2337ab04c}
+      \strng{bibnamehash}{f82f8b7369928c5d458f85e2337ab04c}
+      \strng{authorbibnamehash}{f82f8b7369928c5d458f85e2337ab04c}
+      \strng{authornamehash}{f82f8b7369928c5d458f85e2337ab04c}
+      \strng{authorfullhash}{f82f8b7369928c5d458f85e2337ab04c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sociobiology: The New Synthesis}
+      \field{year}{2000}
+    \endentry
+    \entry{wiltschko2003navigation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4e94c1cc45a6119e39c722d33969ab78}{%
+           family={Wiltschko},
+           familyi={W\bibinitperiod},
+           given={Roswitha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bc677e115d9a40a98a6d6c32ca9a3dce}{%
+           family={Wiltschko},
+           familyi={W\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \strng{fullhash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \strng{bibnamehash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \strng{authorbibnamehash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \strng{authornamehash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \strng{authorfullhash}{85f358c6da17a1f5e4254215ed4e95c4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Comparative Physiology A}
+      \field{title}{Navigation in birds}
+      \field{volume}{189}
+      \field{year}{2003}
+      \field{pages}{675\bibrangedash 693}
+      \range{pages}{19}
     \endentry
   \enddatalist
 \endrefsection
