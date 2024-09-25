@@ -1,0 +1,151 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{koehler1927detours}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
+           family={Köhler},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{fullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{bibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorbibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authornamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorfullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Psychology}
+      \field{title}{On the nature of intelligence in apes}
+      \field{volume}{17}
+      \field{year}{1927}
+      \field{pages}{235\bibrangedash 254}
+      \range{pages}{20}
+    \endentry
+    \entry{koehler1917chimpanzees}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
+           family={Köhler},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Harcourt, Brace}%
+        {Company}%
+      }
+      \strng{namehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{fullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{bibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorbibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authornamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorfullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Mentality of Apes}
+      \field{year}{1917}
+    \endentry
+    \entry{koehler1921mentality}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d37899350967fc98bb1adb5cdfe56fe1}{%
+           family={Köhler},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{fullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{bibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorbibnamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authornamehash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \strng{authorfullhash}{d37899350967fc98bb1adb5cdfe56fe1}
+      \field{extraname}{3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Mentality of Apes}
+      \field{year}{1921}
+    \endentry
+    \entry{morgan1894animal}{article}{}
+      \name{author}{1}{}{%
+        {{hash=38e532fac00039b5ff3fd2bc71f8e464}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Lloyd},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \strng{fullhash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \strng{bibnamehash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \strng{authorbibnamehash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \strng{authornamehash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \strng{authorfullhash}{38e532fac00039b5ff3fd2bc71f8e464}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Macmillan's Magazine}
+      \field{title}{An Introduction to Comparative Psychology}
+      \field{volume}{75}
+      \field{year}{1894}
+      \field{pages}{45\bibrangedash 59}
+      \range{pages}{15}
+    \endentry
+    \entry{thorndike1898animal}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3d6bff9febab561c42bb60701abd027b}{%
+           family={Thorndike},
+           familyi={T\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{3d6bff9febab561c42bb60701abd027b}
+      \strng{fullhash}{3d6bff9febab561c42bb60701abd027b}
+      \strng{bibnamehash}{3d6bff9febab561c42bb60701abd027b}
+      \strng{authorbibnamehash}{3d6bff9febab561c42bb60701abd027b}
+      \strng{authornamehash}{3d6bff9febab561c42bb60701abd027b}
+      \strng{authorfullhash}{3d6bff9febab561c42bb60701abd027b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Animal Intelligence}
+      \field{year}{1898}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
